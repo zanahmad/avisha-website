@@ -1,8 +1,8 @@
-baseURL = "/"
+baseURL = "https://verdant-khapse-1be81b.netlify.app/"
 theme = "hugo-apero"
 languageCode = "en"
-title = "Hugo Apéro"
-author = "Alison Hill"
+title = "Avisha Kumar's Webpage"
+author = "Avisha Kumar"
 copyright = "" # set to override the auto generated copyright using org info and now year
 googleAnalytics = ""
 disqusShortname = "" # see params.utterances to use utterances instead of Disqus
@@ -31,8 +31,8 @@ enableEmoji = true
   orgName = "RStudio"
   orgLocal = "Anywhere"
   description = "A modern, beautiful, and easily configurable blog theme for Hugo."
-  favicon = "/img/favicon.ico"
-  logo = "/img/blogophonic-mark-dark.png"
+  favicon = "/img/peony.ico"
+  logo = "/img/peony.png"
   mainSections = ["blog", "project", "talk"]
   navallcaps = true
   # show/hide social icons in site header & footer
@@ -61,12 +61,12 @@ enableEmoji = true
   # serif options: Fraunces / EB Garamond / Bitter
   # sans-serif options: Commissioner / Atkinson Hyperlegible / Metropolis
   # if you import your own fonts, name them here too
-  customtextFontFamily = "Commissioner"
-  customheadingFontFamily = "Fraunces"
+  customtextFontFamily = "EB Garamond"
+  customheadingFontFamily = "EB Garamond"
   # alternatively, leave empty and select basic font options: sans-serif or serif
   # for more http://tachyons.io/docs/typography/font-family/
-  textFontFamily = "sans-serif"
-  headingFontFamily = "sans-serif"
+  textFontFamily = "serif"
+  headingFontFamily = "serif"
 
   # Configuration of https://utteranc.es/ for comments
   [params.utterances]
@@ -88,37 +88,28 @@ enableEmoji = true
   [[params.social]]
       icon      = "github" # icon name without the 'fa-'
       icon_pack = "fab"
-      url       = "https://github.com/apreshill/apero"
-  [[params.social]]
-      icon      = "facebook-square" # icon name without the 'fa-'
-      icon_pack = "fab"
-      url       = "https://www.facebook.com/hashtag/ap%C3%A9ro"
-  [[params.social]]
-      icon      = "instagram" # icon name without the 'fa-'
-      icon_pack = "fab"
-      url       = "https://www.instagram.com/explore/tags/apero/"
+      url       = "https://github.com/avishakumar21"
   [[params.social]]
       icon      = "twitter" # icon name without the 'fa-'
       icon_pack = "fab"
-      url       = "https://twitter.com/hashtag/apéro"
+      url       = "https://twitter.com/avishakumar21"
   [[params.social]]
-      icon      = "impactstory" # icon name without the 'fa-'
+      icon      = "linkedin" # icon name without the 'fa-'
+      icon_pack = "fab"
+      url       = "https://www.linkedin.com/in/avishakumar21/"
+  [[params.social]]
+      icon      = "google-scholar" # icon name without the 'fa-'
       icon_pack = "ai"
-      url       = "https://impactstory.org/u/0000-0002-8082-1890"
+      url       = "https://scholar.google.com/citations?user=AzyZMwIAAAAJ&hl=en&oi=sra"
   [[params.social]]
-      icon      = "orcid" # icon name without the 'fa-'
+      icon      = "cv" # icon name without the 'fa-'
       icon_pack = "ai"
-      url       = "http://orcid.org/0000-0002-8082-1890"
-  [[params.social]]
-      icon      = "rss" # icon name without the 'fa-'
-      icon_pack = "fas"
-      url       = "/blog/index.xml"
+      url       = "https://scholar.google.com/citations?user=AzyZMwIAAAAJ&hl=en&oi=sra"
 
 [taxonomies]
   category = "categories"
   series = "series"
   tag = "tags"
-
 [menu]
   # Configure header 
   [[menu.header]]
@@ -127,19 +118,19 @@ enableEmoji = true
     url = "/about/"
     weight = 1
   [[menu.header]]
-    name = "Blog"
-    title = "Blog"
-    url = "/blog/"
+    name = "Publications"
+    title = "Publications"
+    url = "/talk/"
     weight = 2
   [[menu.header]]
-    name = "Projects"
-    title = "Project Portfolio"
-    url = "/project/"
+    name = "blog"
+    title = "blog"
+    url = "/blog/"
     weight = 3
   [[menu.header]]
-    name = "Talks"
-    title = "Talks"
-    url = "/talk/"
+    name = "Research"
+    title = "Research"
+    url = "/project/"
     weight = 4
   [[menu.header]]
     name = "A collection"
@@ -159,14 +150,14 @@ enableEmoji = true
     url = "/license/"
     weight = 1
   [[menu.footer]]
-    name = "Contact"
-    title = "Contact form"
-    url = "/contact/"
-    weight = 2
-  [[menu.footer]]
     name = "Contributors"
     title = "Contributors"
     url = "/contributors/"
+    weight = 2
+  [[menu.footer]]
+    name = "Contact"
+    title = "Contact form"
+    url = "/contact/"
     weight = 3
 
 # see https://gohugo.io/about/hugo-and-gdpr/    

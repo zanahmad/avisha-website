@@ -1,11 +1,11 @@
 ---
-title: "Hugo Apéro"
-subtitle: "A Hugo theme you'll want to hang out with"
-description: "Sit down, relax, and get to know Hugo Apéro. Built on top of Blogophonic, we wanted to create a polished Hugo theme with the right features for a true personal website. We set out to create a theme that is a pleasure to learn, and one that helps others get to know you better. It is more than a blog, with flexible custom layouts that help you introduce yourself online."
+title: "Avisha Kumar"
+subtitle: "Electrical and Computer Engineer @ JHU"
+description: "Hello! My name is Avisha and welcome to my personal webpage. I am a Ph.D. candidate in the Department of Electrical and Computer Engineering at Johns Hopkins University, where I work on research at the intersection of machine learning and neurosurgery innovation."
 images:
-  - img/revoir.jpg
-image_left: true
-text_align_left: false
+  - img/avisha-nyc.png
+image_left: false
+text_align_left: true
 show_social_links: true # specify social accounts in site config
 show_action_link: true
 action_link: /about

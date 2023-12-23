@@ -1,16 +1,15 @@
 ---
-title: A Blog That Works
+title: Publications
 description: |
-  This is a fully featured blog that supports categories, 
-  tags, series, and pagination.
-author: "The R Markdown Team @RStudio"
-show_post_thumbnail: true
-thumbnail_left: true # for list-sidebar only
-show_author_byline: true
-show_post_date: true
+  Here are a list of my current publications and preprints. 
+author: 
+show_post_thumbnail: false
+thumbnail_left: false # for list-sidebar only
+show_author_byline: false
+show_post_date: false
 show_button_links: false
 # for listing page layout
-layout: list-sidebar # list, list-sidebar, list-grid
+layout: list # list, list-sidebar, list-grid
 
 # for list-sidebar layout
 sidebar: 
@@ -33,9 +32,9 @@ sidebar:
 # set up common front matter for all pages inside blog/
 cascade:
   author: "The R Markdown Team @RStudio"
-  show_author_byline: true
-  show_post_date: true
-  show_comments: true # see site config to choose Disqus or Utterances
+  show_author_byline: false
+  show_post_date: false
+  show_comments: false # see site config to choose Disqus or Utterances
   # for single-sidebar layout
   sidebar:
     text_link_label: View recent posts
