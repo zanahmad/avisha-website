@@ -1,7 +1,7 @@
 baseURL = "https://avishakumar.com"
 theme = "hugo-apero"
 languageCode = "en"
-title = "Avisha Kumar's Webpage"
+title = "Avisha Kumar"
 author = "Avisha Kumar"
 copyright = "" # set to override the auto generated copyright using org info and now year
 googleAnalytics = ""
@@ -104,7 +104,7 @@ enableEmoji = true
   [[params.social]]
       icon      = "cv" # icon name without the 'fa-'
       icon_pack = "ai"
-      url       = "https://scholar.google.com/citations?user=AzyZMwIAAAAJ&hl=en&oi=sra"
+      url       = "/files/CV.pdf"
 
 [taxonomies]
   category = "categories"
@@ -114,7 +114,7 @@ enableEmoji = true
   # Configure header 
   [[menu.header]]
     name = "About"
-    title = "About Blogophonic"
+    title = "About"
     url = "/about/"
     weight = 1
   [[menu.header]]
@@ -123,42 +123,37 @@ enableEmoji = true
     url = "/talk/"
     weight = 2
   [[menu.header]]
-    name = "blog"
-    title = "blog"
-    url = "/blog/"
-    weight = 3
-  [[menu.header]]
     name = "Research"
     title = "Research"
     url = "/project/"
+    weight = 3
+  [[menu.header]]
+    name = "Teaching"
+    title = "Teaching"
+    url = "/blog/"
     weight = 4
   [[menu.header]]
-    name = "A collection"
-    title = "A collection"
-    url = "/collection/"
+    name = "CV"
+    url = "/CV/"
     weight = 5
-  [[menu.header]]
-    name = "Elements"
-    title = "Element Page"
-    url = "/elements/"
-    weight = 6
+ 
     
   # Configure footer  
   [[menu.footer]]
-    name = "License"
-    title = "License"
-    url = "/license/"
-    weight = 1
+    name = ""
+    title = ""
+    url = "/"
+    weight = 0
   [[menu.footer]]
-    name = "Contributors"
-    title = "Contributors"
-    url = "/contributors/"
-    weight = 2
+    name = ""
+    title = ""
+    url = "/"
+    weight = 0
   [[menu.footer]]
-    name = "Contact"
-    title = "Contact form"
-    url = "/contact/"
-    weight = 3
+    name = ""
+    title = ""
+    url = "/"
+    weight = 0
 
 # see https://gohugo.io/about/hugo-and-gdpr/    
 [privacy]

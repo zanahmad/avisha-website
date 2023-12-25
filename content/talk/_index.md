@@ -1,12 +1,12 @@
 ---
-title: Talks that Last
+title: Publications
 description: |
-  This is a list for your talks, workshops, or other events with a time, date, and place.
+  Here, you can find links to my papers and prepints.
 author: "The R Markdown Team @RStudio"
-show_post_thumbnail: true
-show_author_byline: true
+show_post_thumbnail: false
+show_author_byline: false
 show_post_date: true
-show_post_time: true
+show_post_time: false
 show_button_links: true
 # for listing page layout
 layout: list # list, list-sidebar
@@ -30,8 +30,8 @@ sidebar:
 cascade:
   author: "The R Markdown Team @RStudio"
   show_author_byline: true
-  show_post_date: true
-  show_post_time: true
+  show_post_date: false
+  show_post_time: false
   show_comments: false # see site config to choose Disqus or Utterances
   # for single-sidebar layout
   sidebar:
