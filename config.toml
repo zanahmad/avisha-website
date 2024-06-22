@@ -31,8 +31,8 @@ enableEmoji = true
   orgName = "RStudio"
   orgLocal = "Anywhere"
   description = "A modern, beautiful, and easily configurable blog theme for Hugo."
-  favicon = "/img/peony.ico"
-  logo = "/img/peony.png"
+  favicon = "/img/orange.ico"
+  logo = "/img/orange.png"
   mainSections = ["blog", "project", "talk"]
   navallcaps = true
   # show/hide social icons in site header & footer
@@ -48,7 +48,7 @@ enableEmoji = true
   # use a built-in color theme
   # one of: earth / forest / grayscale / magma / paper / peach / plum /
   #         poppy / primer / sky / violet / water 
-  theme = "water"
+  theme = "plum"
   
   # or, leave theme empty & make your own palette
   # see docs at https://hugo-apero.netlify.app/blog/color-themes/
@@ -62,7 +62,7 @@ enableEmoji = true
   # sans-serif options: Commissioner / Atkinson Hyperlegible / Metropolis
   # if you import your own fonts, name them here too
   customtextFontFamily = "EB Garamond"
-  customheadingFontFamily = "Commissioner"
+  customheadingFontFamily = "EB Garamond"
   # alternatively, leave empty and select basic font options: sans-serif or serif
   # for more http://tachyons.io/docs/typography/font-family/
   textFontFamily = "serif"
