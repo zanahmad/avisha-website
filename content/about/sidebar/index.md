@@ -10,7 +10,7 @@ link_list_label: "Interests" # bookmarks, elsewhere, etc.
 link_list:
 - name: Machine Learning 
   url: 
-- name: Modeling & Simulation
+- name: Computational Modeling
   url: 
 - name: Neuroengineering
   url: 
