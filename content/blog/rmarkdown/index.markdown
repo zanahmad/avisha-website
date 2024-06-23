@@ -16,7 +16,7 @@ layout: single
 ## Air quality
 
 
-```r
+``` r
 with(airquality, boxplot(Temp ~ Month))
 ```
 
@@ -24,14 +24,14 @@ with(airquality, boxplot(Temp ~ Month))
 
 
 
-```r
+``` r
 with(airquality, plot(Ozone ~ Temp))
 ```
 
 <img src="{{< blogdown/postref >}}index_files/figure-html/unnamed-chunk-2-1.png" width="672" />
 
 
-```r
+``` r
 mlev <- levels(with(airquality, as.factor(Month)))
 with(airquality, plot(Ozone ~ Temp, 
                       pch = as.numeric(mlev), 

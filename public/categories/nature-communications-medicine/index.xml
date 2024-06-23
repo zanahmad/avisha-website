@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nature Communications Medicine on Avisha Kumar</title>
+    <link>http://localhost:4321/categories/nature-communications-medicine/</link>
+    <description>Recent content in Nature Communications Medicine on Avisha Kumar</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 16 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:4321/categories/nature-communications-medicine/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Quantifying tethered spinal cord tension: Ultrasound elastography results from computational, cadaveric, and intraoperative first-in-human studies</title>
+      <link>http://localhost:4321/talk/nat-com-med/</link>
+      <pubDate>Fri, 16 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/talk/nat-com-med/</guid>
+      <description>Abstract: Background: Tension in the spinal cord is a trademark of tethered cord syndrome. Unfortunately, existing tests cannot quantify tension across the bulk of the cord, making the diagnostic evaluation of stretch ambiguous. A potential non-destructive metric for spinal cord tension is ultrasound-derived shear wave velocity (SWV). The velocity is sensitive to tissue elasticity and boundary conditions including strain. We use the term Ultrasound Tensography to describe the acoustic evaluation of tension with SWV.</description>
+    </item>
+  </channel>
+</rss>

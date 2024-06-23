@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>IEEE International Conference on Acoustics, Speech, and Signal Processing 2023 on Avisha Kumar</title>
+    <link>http://localhost:4321/categories/ieee-international-conference-on-acoustics-speech-and-signal-processing-2023/</link>
+    <description>Recent content in IEEE International Conference on Acoustics, Speech, and Signal Processing 2023 on Avisha Kumar</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 26 Sep 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:4321/categories/ieee-international-conference-on-acoustics-speech-and-signal-processing-2023/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Unidirectional brain-computer interface: Artificial neural network encoding natural images to fMRI response in the visual cortex.</title>
+      <link>http://localhost:4321/publications/ieee-icassp/</link>
+      <pubDate>Tue, 26 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/publications/ieee-icassp/</guid>
+      <description>Abstract: While significant advancements in artificial intelligence (AI) have catalyzed progress across various domains, its full potential in understanding visual perception remains underexplored. We propose an artificial neural network dubbed VISION, an acronym for “Visual Interface System for Imaging Output of Neural activity,” to mimic the human brain and show how it can foster neuroscientific inquiries. Using visual and contextual inputs, this multimodal model predicts the brain’s functional magnetic resonance imaging (fMRI) scan response to natural images.</description>
+    </item>
+  </channel>
+</rss>

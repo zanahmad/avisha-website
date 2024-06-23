@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>American Institute of Aeronautics and Astronautics SciTech Forum on Avisha Kumar</title>
+    <link>http://localhost:4321/categories/american-institute-of-aeronautics-and-astronautics-scitech-forum/</link>
+    <description>Recent content in American Institute of Aeronautics and Astronautics SciTech Forum on Avisha Kumar</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 04 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:4321/categories/american-institute-of-aeronautics-and-astronautics-scitech-forum/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Design of the Alpha CubeSat: Technology Demonstration of a ChipSat-Equipped Retroreflective Light Sail</title>
+      <link>http://localhost:4321/talk/aiaa/</link>
+      <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/talk/aiaa/</guid>
+      <description>Abstract: This paper provides an overview of Alpha, a rapidly developed, low-cost CubeSat mission to verify the performance of a highly retroreflective material for light-sail propulsion. Designed, integrated, and tested by students of the Space Systems Design Studio at Cornell University, this mission demonstrates a number of key technologies that enable next-generation capabilities for space exploration. In particular, this paper focuses on the novel application of ChipSats (gram scale spacecraft-on-a-chip technology) as a means of verifying Alpha&amp;rsquo;s sail orbit and attitude dynamics.</description>
+    </item>
+  </channel>
+</rss>

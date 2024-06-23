@@ -6,13 +6,48 @@
     <description>Recent content in Categories on Avisha Kumar</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 26 Sep 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Oct 2023 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:4321/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Arxiv</title>
-      <link>http://localhost:4321/categories/arxiv/</link>
+      <title>Frontiers in Medical Technology</title>
+      <link>http://localhost:4321/categories/frontiers-in-medical-technology/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/categories/arxiv/</guid>
+      <guid>http://localhost:4321/categories/frontiers-in-medical-technology/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>IEEE International Conference on Acoustics, Speech, and Signal Processing</title>
+      <link>http://localhost:4321/categories/ieee-international-conference-on-acoustics-speech-and-signal-processing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/categories/ieee-international-conference-on-acoustics-speech-and-signal-processing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Nature Communications Medicine</title>
+      <link>http://localhost:4321/categories/nature-communications-medicine/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/categories/nature-communications-medicine/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>IEEE Neuroengineering</title>
+      <link>http://localhost:4321/categories/ieee-neuroengineering/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/categories/ieee-neuroengineering/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>SPIE Medical Imaging</title>
+      <link>http://localhost:4321/categories/spie-medical-imaging/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/categories/spie-medical-imaging/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Epilepsia</title>
+      <link>http://localhost:4321/categories/epilepsia/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/categories/epilepsia/</guid>
       <description></description>
     </item>
     <item>
@@ -30,17 +65,17 @@
       <description></description>
     </item>
     <item>
+      <title>American Institute of Aeronautics and Astronautics SciTech Forum</title>
+      <link>http://localhost:4321/categories/american-institute-of-aeronautics-and-astronautics-scitech-forum/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/categories/american-institute-of-aeronautics-and-astronautics-scitech-forum/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>R</title>
       <link>http://localhost:4321/categories/r/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:4321/categories/r/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Meetup</title>
-      <link>http://localhost:4321/categories/meetup/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/categories/meetup/</guid>
       <description></description>
     </item>
     <item>
