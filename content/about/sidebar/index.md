@@ -8,7 +8,7 @@ audio_link_label:  # leave blank to exclude
 
 link_list_label: "Research Interests" # bookmarks, elsewhere, etc.
 link_list:
-- name: Medical Computer Vision 
+- name: Computer Vision 
   url: 
 - name: Computational Modeling
   url: 
