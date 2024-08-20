@@ -89,10 +89,10 @@ enableEmoji = true
       icon      = "github" # icon name without the 'fa-'
       icon_pack = "fab"
       url       = "https://github.com/avishakumar21"
-  [[params.social]]
-      icon      = "twitter" # icon name without the 'fa-'
-      icon_pack = "fab"
-      url       = "https://twitter.com/avishakumar21"
+  #[[params.social]]
+  #    icon      = "twitter" # icon name without the 'fa-'
+  #    icon_pack = "fab"
+  #    url       = "https://twitter.com/avishakumar21"
   [[params.social]]
       icon      = "linkedin" # icon name without the 'fa-'
       icon_pack = "fab"

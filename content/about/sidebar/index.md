@@ -9,11 +9,11 @@ audio_link_label:  # leave blank to exclude
 link_list_label: "Research Interests" # bookmarks, elsewhere, etc.
 link_list:
 - name: Computer Vision 
-  url: 
+  url: https://avishakumar.com/project/computer-vision/
 - name: Ultrasound Simulations
-  url: 
+  url: https://avishakumar.com/project/ultrasound-simulations/
 - name: Neural Operators
-  url: 
+  url: https://avishakumar.com/project/neural-operators/
 ---
 ** index doesn't contain a body, just front matter above.
 See about/list.html in the layouts folder **

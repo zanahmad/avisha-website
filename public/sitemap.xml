@@ -47,19 +47,25 @@
     <loc>http://localhost:4321/project/</loc>
     <lastmod>2024-09-01T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:4321/talk/arxiv/</loc>
+    <lastmod>2024-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:4321/categories/arxiv/</loc>
+    <lastmod>2024-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:4321/categories/</loc>
+    <lastmod>2024-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:4321/talk/</loc>
+    <lastmod>2024-07-01T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:4321/project/computer-vision/</loc>
     <lastmod>2024-06-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:4321/cv/</loc>
     <lastmod>2023-12-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/categories/</loc>
-    <lastmod>2023-10-03T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:4321/categories/frontiers-in-medical-technology/</loc>
-    <lastmod>2023-10-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:4321/talk/</loc>
     <lastmod>2023-10-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:4321/talk/front-med-tech/</loc>
