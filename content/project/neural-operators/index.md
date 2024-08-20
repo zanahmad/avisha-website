@@ -4,15 +4,18 @@ subtitle: "Informing clinicians on where to place the ultrasound probe to optimi
 excerpt: "Informing clinicians on where to place the ultrasound probe to optimize therapeutic efficacy"
 date: 2024-09-01
 author: ""
+featured: false
 draft: false
 tags:
 categories:
+
 layout: single
+
 ---
 
-![Neural Operator](custom_deeponet.png)
-
 ### A new way to both optimize and personalize spinal cord injury treatment
+
+![Neural Operator](custom_deeponet.png)
 
 ---
 
@@ -20,4 +23,4 @@ This research focuses on developing a pipeline to enable personalized treatment 
 
 This work is under preparation and will be available online soon! 
 
-
+---
