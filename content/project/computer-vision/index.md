@@ -6,31 +6,33 @@ date: 2024-06-01
 author: ""
 draft: false
 tags:
-  - hugo-site
 categories:
 
 # layout options: single or single-sidebar
 layout: single
+links:
+- icon: github
+  icon_pack: fab
+  name: code
+  url: https://github.com/avishakumar21/hematoma-localization-and-spinal-cord-segmentation
+  
+- icon: github
+  icon_pack: fab
+  name: dataset
+  url: https://github.com/avishakumar21/ultrasound_spinal_cord_dataset
+
 ---
 
 ![Segmentation](segmentation.png)
 
 ## Continuous evaluation of clinical metrics necessitates integrated computer vision algorithms to detect relevant features from ultrasound images. 
 
-
 ---
 
-### Clinical motivation 
+My research efforts have centered on developing tools for automating and aiding with diagnostics in spinal cord injury. Using ultrasound and wearable technology, we can monitor patient health continuously with ultrasonic imaging. Rather than the current treatment paradigm, where the spinal cord is imaged for sparse and discrete time points after the injury, we can continuously evaluate the spinal cord. However, this can be a time- and cost-intensive task for radiologists, presenting a need for automated image processing. 
 
-Spinal cord injury (SCI) often leads to adverse physiological effects following the initial trauma, including reduced blood flow to the injury site (hematoma). This secondary injury may last for weeks or months and inhibits patient recovery. The standard treatment approaches do not guarantee sufficient local blood flow restoration, and optimally titrating new therapies remains a challenge due to the lack of real-time and automatic monitoring of spinal cord parameters such as hematoma development and tissue inflammation. Ultrasound allows continuous, real-time imaging, and there there are several research efforts on wearable and implantable ultrasound based devices for clinical applications. However, continuous evaluation of clinical metrics necessitates integrated computer vision algorithms to detect relevant features from ultrasound images. To address this, we explore the efficacy of deep learning models for automatic hematoma tracking and anatomical segmentation on our comprehensive ultrasound dataset of 10,223 images of 25 porcine spinal cords. We also evaluate the zero-shot generalization capabilities of the segmentation models on human ultrasound spinal cord images to determine whether training on our porcine dataset is sufficient for these models to accurately interpret human data for clinical translation.
+To address this, I have developed a unique dataset of over 10,000 spinal cord images with and without injury to train and evaluate machine learning models for injury localization and automatic segmentation. More details about this work can be found in my publication [here](https://avishakumar.com/talk/).   
 
-
-### Injury Localization 
-YOLOv8 is able to localize the injury site in porcine ultrasound spinal cord images with a mean Average Precision (mAP50-95) of 0.606 and mAP50 of 0.979. 
-
-### Soft-tissue segmentation
-With DeepLabv3, we were able to achieve a mean Dice score of 0.587 on porcine spinal cord and SAMed generalizes best to human spinal cord with a mean Dice score of 0.445. By automating diagnostics within ultrasound, clinical workflows for personalized treatment paradigms can be augmented without overburdening clinicians. The significance of this research effort is highlighted by ultra-sound's unique capability for real-time imaging, providing continuous insights on patient health. With the rapidly evolving field of ultrasound imaging, enabling high resolution and dense datasets, the benefits of deep learning can be realized across diverse healthcare settings. 
-
-### More information
-This work is under review and will be published with a journal shortly. Upon acceptance, the porcine spinal cord dataset will also be publically available. 
-
+<video width="700" height="350" controls>
+  <img src="transunet_segmentation.mp4" type="video/mp4"/>
+</video>

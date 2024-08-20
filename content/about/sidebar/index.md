@@ -10,11 +10,7 @@ link_list_label: "Research Interests" # bookmarks, elsewhere, etc.
 link_list:
 - name: Computer Vision 
   url: 
-- name: Computational Modeling
-  url: 
-- name: Neural Implants
-  url: 
-- name: Precision Medicine
+- name: Ultrasound Simulations
   url: 
 - name: Neural Operators
   url: 

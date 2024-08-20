@@ -9,7 +9,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta name="generator" content="Hugo 0.127.0">
-<title>Computational Modelling | Avisha Kumar</title>
+<title>Ultrasound Simulations | Avisha Kumar</title>
 
 
 <meta property="twitter:site" content="@apreshill">
@@ -28,7 +28,7 @@
 
 
 <meta property="og:site_name" content="Avisha Kumar">
-<meta property="og:title" content="Computational Modelling | Avisha Kumar">
+<meta property="og:title" content="Ultrasound Simulations | Avisha Kumar">
 <meta property="og:description" content="Investigating focused ultrasound wave propagation in patient-specific spinal cord anatomy" />
 <meta property="og:type" content="page" />
 <meta property="og:url" content="http://localhost:4321/project/computational-modeling/" />
@@ -44,11 +44,11 @@
     
     
   
-  <meta itemprop="name" content="Computational Modelling">
-  <meta itemprop="description" content="Generating acoustic phantoms of patient-specific spinal cords to investigate the theraputic efficacy of focused ultrasound transducer placement Spinal cord injury is a devastatingAn estimated 900,000 incident cases of spinal cord injury (SCI) were reported globally in 2019, predominantly resulting from falls, road injuries, and conflicts [1]. The clinical manifestations of SCI can worsen with secondary damage due to inflammation and swelling restricting blood flow to the cord, with devastating socioeconomic consequences for patients [2].">
+  <meta itemprop="name" content="Ultrasound Simulations">
+  <meta itemprop="description" content="Generating acoustic phantoms of patient-specific spinal cords to investigate the theraputic efficacy of focused ultrasound transducer placement Therapeutic focused ultrasound is a rapidly maturing technology, showing promise for alleviating the side effects of spinal cord injury by stimulating blood circulation to promote healing. Focused ultrasound can deliver therapy to sub-millimeter focal regions, allowing clinicians to pinpoint the site of injury while minimizing impact on surrounding tissues. During my PhD, I have been interested in investigating the effects of patient spinal cord geometry on focused ultrasound wave propagation.">
   <meta itemprop="datePublished" content="2023-04-01T00:00:00+00:00">
   <meta itemprop="dateModified" content="2023-04-01T00:00:00+00:00">
-  <meta itemprop="wordCount" content="412">
+  <meta itemprop="wordCount" content="197">
   <meta itemprop="image" content="http://localhost:4321/project/computational-modeling/featured-hex.png">
   <meta itemprop="keywords" content="Hugo-Site">
   
@@ -69,7 +69,7 @@
   <script src="/main.min.f79da8fdf791f07dbd2b639913280bd2101141521e3e2b96d823a4b6dfb2b4ba.js" type="text/javascript"></script>
 </head>
 <body>
-      <div class="grid-container single-sidebar">
+      <div class="grid-container single">
 <header class="site-header pt4 pb2 mb4 bb b--transparent ph5 headroom z-max" role="banner">
   <nav class="site-nav db dt-l w-100" role="navigation">
     <a class="site-brand db dtc-l v-mid link no-underline w-100 w-33-l tc tl-l" href="http://localhost:4321/" title="Home">
@@ -95,11 +95,6 @@
         
         
         
-      <a class="link f6 f5-l dib pv1 ph2 " href="/blog/" title="Teaching">Teaching</a>
-      
-        
-        
-        
       <a class="link f6 f5-l dib pv1 ph2 " href="/cv/" title="">CV</a>
       
       
@@ -109,46 +104,15 @@
 
 <main class="page-main pa4" role="main">
   <section class="page-content mw7 center">
-    <article class="post-content pa0 pr3-l">
+    <article class="post-content pa0 ph4-l">
       <header class="post-header">
-        <h1 class="f1 lh-solid measure-narrow mb3 fw4">Computational Modelling</h1>
+        <h1 class="f1 lh-solid measure-narrow mb3 fw4">Ultrasound Simulations</h1>
         <h4 class="f4 mt0 mb4 lh-title measure">Investigating focused ultrasound wave propagation in patient-specific spinal cord anatomy</h4>
         <p class="f6 measure lh-copy mv1"></p>
         <p class="f7 db mv0 ttu">April 1, 2023</p>
-        
-      
-      <div class="ph0 pt5">
-        
-    
-    
-    
-      
-    
-    
-    
-    
-    
-      
-      
-  <a class="btn-links mr2 ba dib" href="https://ieeexplore.ieee.org/abstract/document/10123718" target="_blank" rel="noopener"><i class="fas fa-door-open fa-lg fa-fw mr2"></i>paper</a>
 
-    
-    
-    
       
-    
-    
-    
-    
-    
-      
-      
-  <a class="btn-links mr2 ba dib" href="https://www.spiedigitallibrary.org/conference-proceedings-of-spie/12466/1246615/Computational-modeling-towards-focused-ultrasound-therapy-for-spinal-cord-injury/10.1117/12.2654357.short#_=_" target="_blank" rel="noopener"><i class="fas fa-door-open fa-lg fa-fw mr2"></i>paper</a>
 
-
-      </div>
-      
-      
       </header>
       <section class="post-body pt5 pb4">
         
@@ -161,133 +125,24 @@
       <path d="M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z"></path>
     </svg></a>
 </h3>
+<p><img src="segmentation.png" alt="Segmentation"></p>
 <hr>
-<p>Spinal cord injury is a devastatingAn estimated 900,000 incident cases of spinal cord injury (SCI) were reported globally in 2019, predominantly resulting from falls, road injuries, and conflicts [1]. The clinical manifestations of SCI can worsen with secondary damage due to inflammation and swelling restricting blood flow to the cord, with devastating socioeconomic consequences for patients [2]. Surgical decompression techniques do not guarantee sufficient local blood flow restoration and other methods to increase tissue perfusion, like prolonged blood pressure elevation, can lead to negative downstream effects [2, 3].</p>
-<p>The spinal cord is an acoustically heterogeneous medium, with each anatomy (i.e. dura, pia, cerebrospinal fluid, spinal cord) having varying acousitc properties (i.e., speed of sound, density, acoustic nonlinearity). Therefore, understanding focused ultrasound wave propagation through requires computational simulations. By using imaging processing pipelines, we can convert spinal cord images from patients into computational grids in numerical solvers. This</p>
-<figure><img src="/project/computational-modeling/css-grid-cover.png"
-    alt="Traditional right sidebar layout"><figcaption>
-      <p>A visual example of the traditional right sidebar layout</p>
-    </figcaption>
-</figure>
-
+<p>Therapeutic focused ultrasound is a rapidly maturing technology, showing promise for alleviating the side effects of spinal cord injury by stimulating blood circulation to promote healing. Focused ultrasound can deliver therapy to sub-millimeter focal regions, allowing clinicians to pinpoint the site of injury while minimizing impact on surrounding tissues. During my PhD, I have been interested in investigating the effects of patient spinal cord geometry on focused ultrasound wave propagation.</p>
+<p>The spinal cord has varying acoustic properties so understanding the behavior of focused ultrasound wave propagation for each patient requires computational simulations. I&rsquo;ve developed image processing pipelines to convert spinal cord ultrasound images from patients into computational grids for numerical solvers.These simulations are crucial for non-invasively inferring the biological effects of transducer placement, especially when treating a sensitive organ such as the spinal cord.</p>
+<p>My research in this topic was awarded the Best Paper Award at the 2023 IEEE Neuroengineering Conference and was selected for a podium talk at the 2023 SPIE Conference on Medical Imaging! More details on these publications can be found at these links:  
+<a href="https://avishakumar.com/talk/ieee-ner/" target="_blank" rel="noopener">IEEE</a> and 
+<a href="https://avishakumar.com/talk/spie-med-imaging/" target="_blank" rel="noopener">SPIE</a>.</p>
 <hr>
 
-
-
-
-<h3 id="dfn-titleermahgerd-is-a-humorous-version-of-the-phrase-oh-my-god-written-as-though-pronounced-with-a-heavy-influence-of-extra-rs-its-meant-to-imitate-the-sound-of-someone-speaking-through-a-retainerermahgerddfn"><dfn title="Ermahgerd is a humorous version of the phrase oh my god, written as though pronounced with a heavy influence of extra Rs. It's meant to imitate the sound of someone speaking through a retainer.">ERMAHGERD</dfn>
-  <a href="#dfn-titleermahgerd-is-a-humorous-version-of-the-phrase-oh-my-god-written-as-though-pronounced-with-a-heavy-influence-of-extra-rs-its-meant-to-imitate-the-sound-of-someone-speaking-through-a-retainerermahgerddfn"><svg class="anchor-symbol" aria-hidden="true" height="26" width="26" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
-      <path d="M0 0h24v24H0z" fill="currentColor"></path>
-      <path d="M3.9 12c0-1.71 1.39-3.1 3.1-3.1h4V7H7c-2.76.0-5 2.24-5 5s2.24 5 5 5h4v-1.9H7c-1.71.0-3.1-1.39-3.1-3.1zM8 13h8v-2H8v2zm9-6h-4v1.9h4c1.71.0 3.1 1.39 3.1 3.1s-1.39 3.1-3.1 3.1h-4V17h4c2.76.0 5-2.24 5-5s-2.24-5-5-5z"></path>
-    </svg></a>
-</h3>
-<p>A proper grid is what we always wanted, no &hellip; <em>needed</em> to build websites with a solid, unbreakable structure. And that&rsquo;s why I used it in this theme. I call this feature a &ldquo;scaffold&rdquo; because none of the <em>content</em> is laid out on this grid. Only the main <em>structure</em>: consisting of the <code>header</code>, <code>footer</code>, <code>main</code>, <code>aside</code>, and <code>footer</code>. As you can tell by this quote from the 
-<a href="https://www.w3.org/TR/css-grid-1/" target="_blank" rel="noopener">W3C</a> on the candidate recommendation itself, Grid is the perfect tool for the job:</p>
-<blockquote>
-
-
-
-
-<h5 id="css-grid-layout-module">CSS Grid Layout Module
-  <a href="#css-grid-layout-module"></a>
-</h5>
-<p>This CSS module defines a two-dimensional grid-based layout system, optimized for user interface design. In the grid layout model, the children of a grid container can be positioned into arbitrary slots in a predefined flexible or fixed-size layout grid.</p>
-<p>— <em>W3C</em></p>
-</blockquote>
-<p>CSS Grid is a total game changer, IMHO. Compared to the bottomless pit of despair that is the old way, the new way of building a site structure can be done in as little as 5 lines of CSS. Of course, it always takes more than that, but not much. I mean this is really the meat of the deal:</p>
-<div class="highlight"><pre tabindex="0" style="background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-css" data-lang="css"><span style="display:flex;"><span>.<span style="color:#458;font-weight:bold">grid-container</span> {
-</span></span><span style="display:flex;"><span>  <span style="color:#000;font-weight:bold">display</span>: <span style="color:#000;font-weight:bold">grid</span>;
-</span></span><span style="display:flex;"><span>  <span style="color:#000;font-weight:bold">grid-template-columns</span>: <span style="color:#900;font-weight:bold">repeat</span>(<span style="color:#099">6</span>, <span style="color:#099">1</span>fr);
-</span></span><span style="display:flex;"><span>  <span style="color:#000;font-weight:bold">grid-template-rows</span>: <span style="color:#900;font-weight:bold">repeat</span>(<span style="color:#099">3</span>, <span style="color:#000;font-weight:bold">auto</span>);
-</span></span><span style="display:flex;"><span>}
-</span></span></code></pre></div>
-
-
-
-<h4 id="what-an-amazing-time-to-be-a-web-developer-anyway-i-hope-you-enjoy-this-feature-that-youll-probably-never-notice-or-even-see-maybe-thats-the-best-part-of-a-good-user-interface--the-hidden-stuff-that-just-works">What an amazing time to be a web developer. Anyway, I hope you enjoy this &ldquo;feature&rdquo; that you&rsquo;ll probably never notice or even see. Maybe that&rsquo;s the best part of a good user interface – the hidden stuff that just works.
-  <a href="#what-an-amazing-time-to-be-a-web-developer-anyway-i-hope-you-enjoy-this-feature-that-youll-probably-never-notice-or-even-see-maybe-thats-the-best-part-of-a-good-user-interface--the-hidden-stuff-that-just-works"></a>
-</h4>
-
-      </section>
-      <footer class="post-footer">
-        <div class="post-pagination dt w-100 mt4 mb2">
-  
-  
-    <a class="prev dtc pr2 tl v-top fw6"
-    href="http://localhost:4321/project/computer-vision/">&larr; Computer Vision on Medical Images</a>
-  
-  
-  
-    <a class="next dtc pl2 tr v-top fw6"
-    href="http://localhost:4321/project/bakeoff/">Bakeoff &rarr;</a>
-  
-</div>
-
-      </footer>
-    </article>
-    
-  </section>
-</main>
-<aside class="page-sidebar" role="complementary">
-                         
- 
-
-
-                       
- 
-
-
-
-
-
-
-
-
-
-
-
-  <img src="/project/sidebar-listing.jpg" class="db ma0">
-
-
-<div class="blog-info ph4 pt4 pb4 pb0-l">
-  
-
-  <h1 class="f3">A Sidebar for Your Projects</h1>
-  <p class="f6 lh-copy measure">Projects can be anything!
-Check out the _index.md file in the /project folder
-to edit this content.</p>
-  <p class="f7 measure lh-copy i mh0-l">Written by The R Markdown Team @RStudio</p>
-
-
-  
-  <div class="dib bt bw1 b--black-10">
-    
-      <small class="db f7 pt3"><a href="/project/" class="dib fw7 ttu">View all projects</a></small>
-    
-    
-    
-    
-  </div>
-
-
-</div>
-
-
-<div class="ad-unit pa4">
-  
-  <p class="f7 measure-narrow lh-copy mv0 pt5"><span class="b ttu db">Made by Formspree</span><span><a href="https://formspree.io" target="_blank">Formspree is a form backend, API and email  service for HTML forms</a>. It is the simplest way to collect form submissions on your static website.</span></p>
-  
-</div>
-
-  
-  <details open class="f6 fw7 input-reset">
+        
+        <details closed class="f6 fw7 input-reset">
   <dl class="f6 lh-copy">
     <dt class="fw7">Posted on:</dt>
     <dd class="fw5 ml0">April 1, 2023</dd>
   </dl>
   <dl class="f6 lh-copy">
     <dt class="fw7">Length:</dt>
-    <dd class="fw5 ml0">2 minute read, 412 words</dd>
+    <dd class="fw5 ml0">1 minute read, 197 words</dd>
   </dl>
   
   
@@ -309,7 +164,26 @@ to edit this content.</p>
   </dl>
 </details>
 
-</aside>
+      </section>
+      <footer class="post-footer">
+        <div class="post-pagination dt w-100 mt4 mb2">
+  
+  
+    <a class="prev dtc pr2 tl v-top fw6"
+    href="http://localhost:4321/project/computer-vision/">&larr; Computer Vision on Medical Images</a>
+  
+  
+  
+    <a class="next dtc pl2 tr v-top fw6"
+    href="http://localhost:4321/project/neural-operators/">Neural Operators for Optimizing Focused Ultrasound Therapy &rarr;</a>
+  
+</div>
+
+      </footer>
+    </article>
+    
+  </section>
+</main>
 <footer class="site-footer pv4 bt b--transparent ph5" role="contentinfo">
   <nav class="db dt-l w-100">
     <p class="site-copyright f7 db dtc-l v-mid w-100 w-33-l tc tl-l pv2 pv0-l mv0 lh-copy">
