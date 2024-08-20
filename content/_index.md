@@ -1,7 +1,7 @@
 ---
 title: "Avisha Kumar"
 subtitle: "PHD Candidate @ Johns Hopkins University"
-description: "Hello! I am a Ph.D. candidate in the Department of Electrical and Computer Engineering at Johns Hopkins University, where I work on research at the intersection of machine learning and neurosurgery innovation."
+description: "Welcome! I am a Ph.D. candidate in the Department of Electrical and Computer Engineering at Johns Hopkins University, where I work on research at the intersection of machine learning and neurosurgery innovation."
 images:
   - avisha copy.png
 image_left: false
