@@ -1,6 +1,6 @@
 ---
 title: "Curriculum Vitae"
-date: 2023-12-24
+date: 2024-08-01
 draft: false
 layout: single
 ---
