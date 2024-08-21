@@ -14,6 +14,12 @@ link_list:
   url: https://avishakumar.com/project/ultrasound-simulations/
 - name: Neural Operators
   url: https://avishakumar.com/project/neural-operators/
+- name: Computational Neuroscience 
+  url: https://avishakumar.com/project/computational-neuroscience/
+- name: Neuromorphic Circuits
+  url: https://avishakumar.com/project/neuromorphic-computing/
+- name: Space Systems Design
+  url: https://avishakumar.com/project/space-system-design/
 ---
 ** index doesn't contain a body, just front matter above.
 See about/list.html in the layouts folder **

@@ -4,7 +4,6 @@ subtitle: "Informing clinicians on where to place the ultrasound probe to optimi
 excerpt: "Informing clinicians on where to place the ultrasound probe to optimize therapeutic efficacy"
 date: 2024-09-01
 author: ""
-featured: false
 draft: false
 tags:
 categories:
