@@ -8,6 +8,7 @@ draft: false
 tags:
 categories:
 
+# layout options: single or single-sidebar
 layout: single
 
 ---
