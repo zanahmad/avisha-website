@@ -1,11 +1,10 @@
 ---
-title: "CV"
-date: 2023-12-24
+title: "Curriculum Vitae"
+date: 
 draft: false
-layout: list
+layout: single
 ---
 
-hello
-Click [here](\static\files\CV.pdf) for a copy of my CV!
+#### Click [here](https://drive.google.com/file/d/1ccionjTQuDmcaL2a3ZY_LQAYsFTxYxzX/view?usp=sharing) for a PDF of my CV!
 
 
