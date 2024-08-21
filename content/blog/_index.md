@@ -1,7 +1,7 @@
 ---
-title: Publications
+title: Teaching
 description: |
-  Here are a list of my current publications and preprints. 
+  Here are a list of my teaching experiences. 
 author: 
 show_post_thumbnail: false
 thumbnail_left: false # for list-sidebar only

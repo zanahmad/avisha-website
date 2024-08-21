@@ -128,6 +128,11 @@ enableEmoji = true
     url = "/project/"
     weight = 3
   [[menu.header]]
+    name = "Teaching"
+    title = "Teaching"
+    url = "/teaching/"
+    weight = 4
+  [[menu.header]]
     name = "CV"
     url = "/CV/"
     weight = 5

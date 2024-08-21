@@ -83,7 +83,7 @@
       <link>http://localhost:4321/project/neural-operators/</link>
       <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:4321/project/neural-operators/</guid>
-      <description>This research focuses on developing a pipeline to enable personalized treatment plans for spinal cord injury. Understanding where to place a focused ultrasound transducer in surgery to optimize therapeutic effect requires computational simulations. Numerical solvers take too long to generate the necessary pressure maps, taking up to 5 hours to provide accurate results. The time and cost-intensive nature of this approach is unfeasible for intraoperative use-cases. My approach uses a physics-informed Deep Operator Network trained on simulated pressure maps in the spinal cord to predict the output pressure distribution for a given patient in a matter of seconds.</description>
+      <description>A new way to both optimize and personalize spinal cord injury treatment This research focuses on developing a pipeline to enable personalized treatment plans for spinal cord injury. Understanding where to place a focused ultrasound transducer in surgery to optimize therapeutic effect requires computational simulations. Numerical solvers take too long to generate the necessary pressure maps, taking up to 5 hours to provide accurate results. The time and cost-intensive nature of this approach is unfeasible for intraoperative use-cases.</description>
     </item>
     <item>
       <title>A novel open-source ultrasound dataset with deep learning benchmarks for spinal cord injury localization and anatomical segmentation</title>
@@ -149,7 +149,7 @@
       <description>Abstract: People with epilepsy face serious driving restrictions, determined using retrospective studies. To relate seizure characteristics to driving impairment, we aimed to study driving behavior during seizures with a simulator. Patients in the Yale New Haven Hospital undergoing video-electroencephalographic monitoring used a laptop-based driving simulator during ictal events. Driving function was evaluated by video review and analyzed in relation to seizure type, impairment of consciousness/responsiveness, or motor impairment during seizures. Fifty-one seizures in 30 patients were studied.</description>
     </item>
     <item>
-      <title>Set up your social</title>
+      <title>Teaching Assistant Positions</title>
       <link>http://localhost:4321/blog/social/</link>
       <pubDate>Thu, 28 Jan 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:4321/blog/social/</guid>
