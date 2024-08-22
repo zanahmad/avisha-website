@@ -32,31 +32,19 @@
     <loc>http://localhost:4321/</loc>
     <lastmod>2024-08-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/categories/</loc>
-    <lastmod>2024-08-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:4321/teaching/instructor/</loc>
-    <lastmod>2024-08-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:4321/cv/</loc>
-    <lastmod>2024-08-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:4321/project/neural-operators/</loc>
     <lastmod>2024-08-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:4321/project/</loc>
     <lastmod>2024-08-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/teaching/</loc>
-    <lastmod>2024-08-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:4321/categories/theme-features/</loc>
-    <lastmod>2024-08-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:4321/talk/arxiv/</loc>
     <lastmod>2024-07-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:4321/categories/arxiv/</loc>
+    <lastmod>2024-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:4321/categories/</loc>
     <lastmod>2024-07-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:4321/talk/</loc>
@@ -98,12 +86,6 @@
     <loc>http://localhost:4321/project/ultrasound-simulations/</loc>
     <lastmod>2023-04-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/teaching/mentorship/</loc>
-    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:4321/teaching/teaching-assistant/</loc>
-    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:4321/categories/epilepsia/</loc>
     <lastmod>2021-11-24T00:00:00+00:00</lastmod>
   </url><url>
@@ -139,10 +121,14 @@
   </url><url>
     <loc>http://localhost:4321/contributors/</loc>
   </url><url>
+    <loc>http://localhost:4321/cv/</loc>
+  </url><url>
     <loc>http://localhost:4321/license/</loc>
   </url><url>
     <loc>http://localhost:4321/series/</loc>
   </url><url>
     <loc>http://localhost:4321/tags/</loc>
+  </url><url>
+    <loc>http://localhost:4321/teaching/</loc>
   </url>
 </urlset>

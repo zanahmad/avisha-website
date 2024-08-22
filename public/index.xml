@@ -58,13 +58,6 @@
       <description> Hi, I&#39;m the here-bot cat! Use me to find your way in your website.&#xA;Here I am: content/collection/day02/03-blogdown/index.md To remove me, delete this line inside that file: {{&amp;lt; here &amp;gt;}}&#xA;My content section is: collection My layout is: single-series part 2! does this work? now for some very cool things more get ready! </description>
     </item>
     <item>
-      <title>Course Instructor Positions</title>
-      <link>http://localhost:4321/teaching/instructor/</link>
-      <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/teaching/instructor/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Neural Operators for Optimizing Focused Ultrasound Therapy</title>
       <link>http://localhost:4321/project/neural-operators/</link>
       <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
@@ -126,20 +119,6 @@
       <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:4321/project/ultrasound-simulations/</guid>
       <description>Generating acoustic phantoms of patient-specific spinal cords to investigate the theraputic efficacy of focused ultrasound transducer placement Therapeutic focused ultrasound is a rapidly maturing technology, showing promise for alleviating the side effects of spinal cord injury by stimulating blood circulation to promote healing. Focused ultrasound can deliver therapy to sub-millimeter focal regions, allowing clinicians to pinpoint the site of injury while minimizing impact on surrounding tissues. During my PhD, I have been interested in investigating the effects of patient spinal cord geometry on focused ultrasound wave propagation.</description>
-    </item>
-    <item>
-      <title>Mentorship</title>
-      <link>http://localhost:4321/teaching/mentorship/</link>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/teaching/mentorship/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Teaching Assistant Positions</title>
-      <link>http://localhost:4321/teaching/teaching-assistant/</link>
-      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:4321/teaching/teaching-assistant/</guid>
-      <description></description>
     </item>
     <item>
       <title>Simulated driving in the epilepsy monitoring unit: Effects of seizure type, consciousness, and motor impairment</title>
@@ -210,6 +189,13 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:4321/license/</guid>
       <description>My blog posts are released under a Creative Commons Attribution-ShareAlike 4.0 International License.</description>
+    </item>
+    <item>
+      <title>Teaching</title>
+      <link>http://localhost:4321/teaching/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/teaching/</guid>
+      <description>Course Instructor Course Title 1 Description of your role and the course, including any specific topics covered or contributions you made.&#xA;Time period (e.g., Fall 2022)&#xA;Course Title 2 Description of your role and the course, including any specific topics covered or contributions you made.&#xA;Time period (e.g., Spring 2023)&#xA;Teaching Assistant Course Title 1 Brief description of your responsibilities and the course content.&#xA;Time period (e.g., Fall 2021)</description>
     </item>
   </channel>
 </rss>
