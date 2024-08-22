@@ -1,6 +1,5 @@
 ---
 title: "Curriculum Vitae"
-date: 
 draft: false
 layout: single
 ---
