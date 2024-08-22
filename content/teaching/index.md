@@ -8,36 +8,39 @@ layout: single
 
 ## Course Instructor
 
-### Course Title 1
-*Description of your role and the course, including any specific topics covered or contributions you made.*
+### Modeling, Simulations, and Artificial Intelligence for Optimizing Neurosurgery
+*Designed and instructed course for Johns Hopkins undergraduate students*
 
-*Time period (e.g., Fall 2022)*
+*Fall 2024*
 
-### Course Title 2
-*Description of your role and the course, including any specific topics covered or contributions you made.*
+### Biomedical Engineering Innovation 
 
-*Time period (e.g., Spring 2023)*
+*Summer 2024 and Fall 2024*
 
 ## Teaching Assistant
 
-### Course Title 1
-*Brief description of your responsibilities and the course content.*
+### Principles of Design of Biomedical Instrumentation
+*Graduate teaching assistant at Johns Hopkins University*
 
-*Time period (e.g., Fall 2021)*
+*Fall 2022*
 
-### Course Title 2
-*Brief description of your responsibilities and the course content.*
+### Computer Networks and Telecommunications
+*Graduate teaching assistant at Cornell University*
 
-*Time period (e.g., Winter 2022)*
+*Spring 2020*
+
+### Intelligent Physical Systems
+*undergraduate teaching assistant at Cornell University*
+
+*Fall 2019*
 
 ## Mentorship
 
-### Mentorship Title 1
-*Description of your mentoring role, including any specific projects or outcomes.*
+### Artificial Intelligence Subteam Lead 
+*June 2023 - Current*
 
-*Time period (e.g., Summer 2020)*
+### Computer Science Master’s Student (Alina Zhe)
+*June 2024 - Current*
 
-### Mentorship Title 2
-*Description of your mentoring role, including any specific projects or outcomes.*
-
-*Time period (e.g., Fall 2021 - Spring 2022)*
+### Computer Science Master’s Student (Kunal Kotkar)
+*Jan 2023 - June 2024*
