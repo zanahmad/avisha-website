@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects and Research Interests on Avisha Kumar</title>
+    <link>http://localhost:4321/research/</link>
+    <description>Recent content in Projects and Research Interests on Avisha Kumar</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 01 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:4321/research/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Neural Operators for Optimizing Focused Ultrasound Therapy</title>
+      <link>http://localhost:4321/research/neural-operators/</link>
+      <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/research/neural-operators/</guid>
+      <description>A new way to both optimize and personalize spinal cord injury treatment This research focuses on developing a pipeline to enable personalized treatment plans for spinal cord injury. Understanding where to place a focused ultrasound transducer in surgery to optimize therapeutic effect requires computational simulations. Numerical solvers take too long to generate the necessary pressure maps, taking up to 5 hours to provide accurate results. The time and cost-intensive nature of this approach is unfeasible for intraoperative use-cases.</description>
+    </item>
+    <item>
+      <title>Computer Vision on Medical Images</title>
+      <link>http://localhost:4321/research/computer-vision/</link>
+      <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/research/computer-vision/</guid>
+      <description>Continuous evaluation of clinical metrics necessitates integrated computer vision algorithms to detect relevant features from ultrasound images. My research efforts have centered on developing tools for automating and aiding with diagnostics in spinal cord injury. Using ultrasound and wearable technology, we can monitor patient health continuously with ultrasonic imaging. Rather than the current treatment paradigm, where the spinal cord is imaged for sparse and discrete time points after the injury, we can continuously evaluate the spinal cord.</description>
+    </item>
+    <item>
+      <title>Ultrasound Simulations</title>
+      <link>http://localhost:4321/research/ultrasound-simulations/</link>
+      <pubDate>Sat, 01 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/research/ultrasound-simulations/</guid>
+      <description>Generating acoustic phantoms of patient-specific spinal cords to investigate the theraputic efficacy of focused ultrasound transducer placement Therapeutic focused ultrasound is a rapidly maturing technology, showing promise for alleviating the side effects of spinal cord injury by stimulating blood circulation to promote healing. Focused ultrasound can deliver therapy to sub-millimeter focal regions, allowing clinicians to pinpoint the site of injury while minimizing impact on surrounding tissues. During my PhD, I have been interested in investigating the effects of patient spinal cord geometry on focused ultrasound wave propagation.</description>
+    </item>
+    <item>
+      <title>Computational Neuroscience for Understanding Epilepsy</title>
+      <link>http://localhost:4321/research/computational-neuroscience/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/research/computational-neuroscience/</guid>
+      <description>Studying patterns in brain electrical activity can provide insights on when a seizure will occur. During my tenure at Yale School of Medicine (2020-2021) as a computational neuroscience research associate in the Blumenfeld Lab, I developed signal processing pipelines to study and identify indicators of seizure onset. By separating the EEG signals of patients with epilepsy into their frequency subcomponents, I quantified the changes in brain signals before, during, and after a seizure to find patterns that indicate loss of consciousness.</description>
+    </item>
+    <item>
+      <title>Space Systems Design</title>
+      <link>http://localhost:4321/research/space-system-design/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/research/space-system-design/</guid>
+      <description>Facilitating innovations that dramatically increase the capabilities of the next generation of small spacecraft The mission of the Space Systems Design Studion is pioneering multiple techniques that have the potential to fundamentally change deep space exploration. Highlighted innovations include, but are not limited to: a primarily 3D printed spacecraft structure, the use of a RockBlock modem for decentralized communication, the placement of holograms on the spacecraft, and of course, the first release of a free-flying light sail into Low Earth Orbit.</description>
+    </item>
+    <item>
+      <title>Neuromorphic Circuits</title>
+      <link>http://localhost:4321/research/neuromorphic-computing/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/research/neuromorphic-computing/</guid>
+      <description>For my Masters Thesis at Cornell University (2019-2020), I worked on developing a computational system to emulate the mammalian olfactory system using chemosensors, microcontrollers, and a machine learning classification algorithm. The goal for this system is to learn and classify new odors rapidly and robustly despite interference from other smells, much like our own olfactory system. More information on my thesis can be found in the link above!</description>
+    </item>
+  </channel>
+</rss>

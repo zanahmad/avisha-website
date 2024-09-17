@@ -112,6 +112,8 @@ enableEmoji = true
   category = "categories"
   series = "series"
   tag = "tags"
+  
+
 [menu]
   # Configure header 
   [[menu.header]]
@@ -156,6 +158,9 @@ enableEmoji = true
     title = ""
     url = "/"
     weight = 0
+    
+[permalinks]
+  portfolio = "/project/:filename/"
 
 # see https://gohugo.io/about/hugo-and-gdpr/    
 [privacy]
