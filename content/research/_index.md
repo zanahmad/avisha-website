@@ -22,7 +22,9 @@ sidebar:
   show_sidebar_adunit: false # show ad container
 
 # set up common front matter for all individual pages inside project/
-cascade:    
+type: project
+cascade:
+  type: project
   show_author_byline: true
   show_post_date: true
   show_comments: false # see site config to choose Disqus or Utterances

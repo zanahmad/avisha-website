@@ -32,13 +32,13 @@
     <loc>http://localhost:4321/</loc>
     <lastmod>2024-08-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/project/neural-operators/</loc>
+    <loc>http://localhost:4321/research/neural-operators/</loc>
     <lastmod>2024-08-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/project/</loc>
+    <loc>http://localhost:4321/research/</loc>
     <lastmod>2024-08-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/talk/arxiv/</loc>
+    <loc>http://localhost:4321/publications/arxiv/</loc>
     <lastmod>2024-07-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:4321/categories/arxiv/</loc>
@@ -47,49 +47,49 @@
     <loc>http://localhost:4321/categories/</loc>
     <lastmod>2024-07-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/talk/</loc>
+    <loc>http://localhost:4321/publications/</loc>
     <lastmod>2024-07-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/project/computer-vision/</loc>
+    <loc>http://localhost:4321/research/computer-vision/</loc>
     <lastmod>2024-06-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:4321/categories/frontiers-in-medical-technology/</loc>
     <lastmod>2023-10-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/talk/front-med-tech/</loc>
+    <loc>http://localhost:4321/publications/front-med-tech/</loc>
     <lastmod>2023-10-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:4321/categories/ieee-international-conference-on-acoustics-speech-and-signal-processing/</loc>
     <lastmod>2023-09-26T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/talk/ieee-icassp/</loc>
+    <loc>http://localhost:4321/publications/ieee-icassp/</loc>
     <lastmod>2023-09-26T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:4321/categories/nature-communications-medicine/</loc>
     <lastmod>2023-06-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/talk/nat-com-med/</loc>
+    <loc>http://localhost:4321/publications/nat-com-med/</loc>
     <lastmod>2023-06-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/talk/ieee-ner/</loc>
+    <loc>http://localhost:4321/publications/ieee-ner/</loc>
     <lastmod>2023-04-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:4321/categories/ieee-neuroengineering/</loc>
     <lastmod>2023-04-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/talk/spie-med-imaging/</loc>
+    <loc>http://localhost:4321/publications/spie-med-imaging/</loc>
     <lastmod>2023-04-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:4321/categories/spie-medical-imaging/</loc>
     <lastmod>2023-04-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/project/ultrasound-simulations/</loc>
+    <loc>http://localhost:4321/research/ultrasound-simulations/</loc>
     <lastmod>2023-04-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:4321/categories/epilepsia/</loc>
     <lastmod>2021-11-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/talk/epilepsia/</loc>
+    <loc>http://localhost:4321/publications/epilepsia/</loc>
     <lastmod>2021-11-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:4321/collection/</loc>
@@ -98,16 +98,16 @@
     <loc>http://localhost:4321/categories/american-institute-of-aeronautics-and-astronautics-scitech-forum/</loc>
     <lastmod>2021-01-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/talk/aiaa/</loc>
+    <loc>http://localhost:4321/publications/aiaa/</loc>
     <lastmod>2021-01-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/project/computational-neuroscience/</loc>
+    <loc>http://localhost:4321/research/computational-neuroscience/</loc>
     <lastmod>2020-06-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/project/space-system-design/</loc>
+    <loc>http://localhost:4321/research/space-system-design/</loc>
     <lastmod>2020-05-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:4321/project/neuromorphic-computing/</loc>
+    <loc>http://localhost:4321/research/neuromorphic-computing/</loc>
     <lastmod>2019-09-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:4321/contact/</loc>

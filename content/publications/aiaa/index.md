@@ -3,6 +3,7 @@ title: "Design of the Alpha CubeSat: Technology Demonstration of a ChipSat-Equip
 subtitle: "Joshua S Umansky-Castro, João Maria B. Mesquita, Avisha Kumar, Maxwell Anderson, Yaw Tung Tan, Jenny J Wen, V Hunter Adams, Mason A Peck, Andrew Filo, Davide Carabellese, C Bangs, Martina Mrongovius, Gregory L Matloff"
 excerpt: ""
 date: 2021-01-04
+image_border = true
 author: ""
 location: ""
 featured: true

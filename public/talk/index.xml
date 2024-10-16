@@ -13,7 +13,7 @@
       <link>http://localhost:4321/talk/arxiv/</link>
       <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:4321/talk/arxiv/</guid>
-      <description>Abstract: While deep learning has catalyzed breakthroughs across numerous domains, its broader adoption in clinical settings is inhibited by the costly and time-intensive nature of data acquisition and annotation. To further facilitate medical machine learning, we present an ultrasound dataset of 10,223 Brightness-mode (B-mode) images consisting of sagittal slices of porcine spinal cords (N=25) before and after a contusion injury. We additionally benchmark the performance metrics of several state-of-the-art object detection algorithms to localize the site of injury and semantic segmentation models to label the anatomy for comparison and creation of task-specific architectures.</description>
+      <description>Published in: ArXiv</description>
     </item>
     <item>
       <title>Visualizing Tactile Feedback: An Overview of Current Technologies With a Focus on Ultrasound Elastography</title>

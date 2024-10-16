@@ -2,23 +2,65 @@
 <main class="page-main pa4" role="main">
   <section class="blog-intro mw7 center mb5">
     <h2 class="f2 f1-ns lh-solid tc center fw4">{{ .Title | markdownify }}</h2>
-    {{ with .Description }}<p class="f6 f5-ns measure lh-copy tc center">{{ . | markdownify }}</p>{{ end }}
-    {{ if .Params.show_author_byline }}<p class="f7 measure lh-copy tc center i">{{ if .Params.author }}Written by {{ .Params.author }}{{ end }}</p>{{ end }}
+    {{ with .Description }}
+      <p class="f6 f5-ns measure lh-copy tc center">{{ . | markdownify }}</p>
+    {{ end }}
+    {{ if .Params.show_author_byline }}
+      <p class="f7 measure lh-copy tc center i">
+        {{ if .Params.author }}Written by {{ .Params.author }}{{ end }}
+      </p>
+    {{ end }}
   </section>
+
   <section class="blog-content mw7 center">
     {{ $caller := . }}
-    {{ $paginator := .Paginate ((where .RegularPages "Type" "talk").GroupByDate "2006") }}
-    {{ range $paginator.PageGroups}}
-    <!--each year starts a new section-->
+    <!-- Group entries by year -->
+    {{ range (.RegularPages.GroupByDate "2006") }}
     <section class="group-content pb3 pb4-ns bt">
       <h5 class="f4 fw7 tracked ttu lh-title mv3">{{ .Key | title }}</h5>
       {{ range .Pages }}
-          {{ .Scratch.Set "$root" $caller }}
-          {{ partial "shared/summary-compact.html" . }}
+        {{ $paper_link := index .Params.links 0 }}
+
+        <article class="db pv3 flex-ns items-center">
+          <!-- Dynamically render the first image from the Page Bundle -->
+          <div class="w-50 mr4">
+            {{ $images := .Resources.ByType "image" }}
+            {{ if gt (len $images) 0 }}
+              {{ $firstImage := index $images 0 }}
+              <img src="{{ $firstImage.RelPermalink }}" 
+                   alt="{{ $.Title }}" 
+                   class="{{ if .Params.image_border }}br3 shadow-1{{ end }} w-100 h-auto">
+            {{ end }}
+          </div>
+
+          <!-- Display the title, location, and links on the right -->
+          <div class="w-50">
+            <h3 class="f4 fw7 lh-title mv1">
+              {{ if $paper_link.url }}
+                <a href="{{ $paper_link.url }}" class="link dim blue" target="_blank">
+                  {{ .Title | markdownify }}
+                </a>
+              {{ else }}
+                {{ .Title | markdownify }}
+              {{ end }}
+            </h3>
+
+            <p class="f6 i lh-copy">{{ .Params.location }}</p>
+
+            {{ with .Summary }}
+              <p class="f6 measure lh-copy">{{ . }}</p>
+            {{ end }}
+
+            {{ with $paper_link }}
+              <a href="{{ .url }}" class="link dim ba br2 ph3 pv2 mb2 dib blue" target="_blank">
+                <i class="{{ .icon_pack }} fa-{{ .icon }} mr2"></i>{{ .name }}
+              </a>
+            {{ end }}
+          </div>
+        </article>
       {{ end }}
-    </section>    
+    </section>
     {{ end }}
-    {{ partial "shared/list-pagination.html" . }}
   </section>
 </main>
 {{ end }}

@@ -112,7 +112,6 @@ enableEmoji = true
   category = "categories"
   series = "series"
   tag = "tags"
-  
 
 [menu]
   # Configure header 
@@ -124,12 +123,12 @@ enableEmoji = true
   [[menu.header]]
     name = "Publications"
     title = "Publications"
-    url = "/talk/"
+    url = "/publications/"
     weight = 2
   [[menu.header]]
     name = "Research"
     title = "Research"
-    url = "/project/"
+    url = "/research/"
     weight = 3
   [[menu.header]]
     name = "Teaching"
