@@ -79,6 +79,13 @@
       <description>Continuous evaluation of clinical metrics necessitates integrated computer vision algorithms to detect relevant features from ultrasound images. My research efforts have centered on developing tools for automating and aiding with diagnostics in spinal cord injury. Using ultrasound and wearable technology, we can monitor patient health continuously with ultrasonic imaging. Rather than the current treatment paradigm, where the spinal cord is imaged for sparse and discrete time points after the injury, we can continuously evaluate the spinal cord.</description>
     </item>
     <item>
+      <title>Widespread brain activity increases in frontal lobe seizures with impaired consciousness</title>
+      <link>http://localhost:4321/publications/fle/</link>
+      <pubDate>Tue, 23 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/publications/fle/</guid>
+      <description>Published in: BioArXiv</description>
+    </item>
+    <item>
       <title>Visualizing Tactile Feedback: An Overview of Current Technologies With a Focus on Ultrasound Elastography</title>
       <link>http://localhost:4321/publications/front-med-tech/</link>
       <pubDate>Tue, 03 Oct 2023 00:00:00 +0000</pubDate>
@@ -111,7 +118,7 @@
       <link>http://localhost:4321/publications/spie-med-imaging/</link>
       <pubDate>Mon, 03 Apr 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:4321/publications/spie-med-imaging/</guid>
-      <description>Abstract: Ultrasound holds promise for use in spinal cord injury cases for both diagnostic and therapeutic purposes. Focused ultrasound applications demand an added threshold of study to ensure the safety and efficacy of the therapy. For optimal treatment outcomes, it is crucial to understand whether relevant structures are being targeting with sufficient energy without damaging neighboring tissue and vasculature. However, it is difficult to predict the expected displacement and pressure profile of the ultrasound wavefront due to challenges with visualizing an acoustic beam in real-time and complex patient-specific anatomy.</description>
+      <description>Published in: SPIE Medical Imaging</description>
     </item>
     <item>
       <title>Ultrasound Simulations</title>

@@ -13,7 +13,7 @@
       <link>http://localhost:4321/publications/ieee-icassp/</link>
       <pubDate>Tue, 26 Sep 2023 00:00:00 +0000</pubDate>
       <guid>http://localhost:4321/publications/ieee-icassp/</guid>
-      <description>Abstract: While significant advancements in artificial intelligence (AI) have catalyzed progress across various domains, its full potential in understanding visual perception remains underexplored. We propose an artificial neural network dubbed VISION, an acronym for “Visual Interface System for Imaging Output of Neural activity,” to mimic the human brain and show how it can foster neuroscientific inquiries. Using visual and contextual inputs, this multimodal model predicts the brain’s functional magnetic resonance imaging (fMRI) scan response to natural images.</description>
+      <description>Published in: IEEE International Conference on Acoustics, Speech, and Signal Processing</description>
     </item>
   </channel>
 </rss>

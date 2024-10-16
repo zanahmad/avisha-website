@@ -4,6 +4,6 @@ draft: false
 layout: single
 ---
 
-#### Click [here](https://drive.google.com/file/d/1Tpn2xPtfua_rlg2GCj1-JNRGWeNz40Nu/view?usp=drive_link) for a PDF of my CV!
+#### Click [here](https://drive.google.com/file/d/1L3yVyY4tEAyWdDljE7F0tO7BBPqDavzn/view?usp=sharing) for a PDF of my CV!
 
 

@@ -1,5 +1,6 @@
 ---
 title: "Design of the Alpha CubeSat: Technology Demonstration of a ChipSat-Equipped Retroreflective Light Sail"
+title_link: https://arc.aiaa.org/doi/abs/10.2514/6.2021-1254
 subtitle: ""
 excerpt: ""
 date: 2021-01-04
@@ -12,7 +13,7 @@ draft: false
 layout: single
 categories:
 - American Institute of Aeronautics and Astronautics SciTech Forum
-links:
+buttons:
 - icon: door-open
   icon_pack: fas
   name: paper

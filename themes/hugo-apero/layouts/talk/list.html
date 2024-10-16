@@ -14,15 +14,12 @@
 
   <section class="blog-content mw7 center">
     {{ $caller := . }}
-    <!-- Group entries by year -->
     {{ range (.RegularPages.GroupByDate "2006") }}
     <section class="group-content pb3 pb4-ns bt">
       <h5 class="f4 fw7 tracked ttu lh-title mv3">{{ .Key | title }}</h5>
       {{ range .Pages }}
-        {{ $paper_link := index .Params.links 0 }}
-
         <article class="db pv3 flex-ns items-center">
-          <!-- Dynamically render the first image from the Page Bundle -->
+          <!-- Render the first image from the Page Bundle -->
           <div class="w-50 mr4">
             {{ $images := .Resources.ByType "image" }}
             {{ if gt (len $images) 0 }}
@@ -33,11 +30,12 @@
             {{ end }}
           </div>
 
-          <!-- Display the title, location, and links on the right -->
+          <!-- Display the title, location, and buttons -->
           <div class="w-50">
+            <!-- Render the title as a link -->
             <h3 class="f4 fw7 lh-title mv1">
-              {{ if $paper_link.url }}
-                <a href="{{ $paper_link.url }}" class="link dim blue" target="_blank">
+              {{ if .Params.title_link }}
+                <a href="{{ .Params.title_link }}" class="link dim blue" target="_blank">
                   {{ .Title | markdownify }}
                 </a>
               {{ else }}
@@ -51,10 +49,15 @@
               <p class="f6 measure lh-copy">{{ . }}</p>
             {{ end }}
 
-            {{ with $paper_link }}
-              <a href="{{ .url }}" class="link dim ba br2 ph3 pv2 mb2 dib blue" target="_blank">
-                <i class="{{ .icon_pack }} fa-{{ .icon }} mr2"></i>{{ .name }}
-              </a>
+            <!-- Render additional buttons horizontally -->
+            {{ with .Params.buttons }}
+              <div class="mt2 flex items-center flex-wrap">
+                {{ range . }}
+                  <a href="{{ .url }}" class="link dim ba br2 ph3 pv2 mb2 dib gray mr2" target="_blank">
+                    <i class="{{ .icon_pack }} fa-{{ .icon }} mr2"></i>{{ .name }}
+                  </a>
+                {{ end }}
+              </div>
             {{ end }}
           </div>
         </article>

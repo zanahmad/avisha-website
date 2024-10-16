@@ -24,7 +24,7 @@ links:
 - icon: door-open
   icon_pack: fas
   name: paper
-  url: https://avishakumar.com/talk/arxiv/
+  url: https://arxiv.org/pdf/2409.16441
 
 ---
 
@@ -41,7 +41,5 @@ To address this, I have developed a unique dataset of over 10,000 spinal cord im
 <div align="center">
   <img src="transunet_segmentation.gif" alt="Segmentation" style="max-width: 100%; height: auto;" loop>
 </div>
-
-This research is currently under review and will be available online soon! 
 
 ---

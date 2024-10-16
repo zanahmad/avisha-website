@@ -1,5 +1,6 @@
 ---
 title: "Simulated driving in the epilepsy monitoring unit: Effects of seizure type, consciousness, and motor impairment"
+title_link: https://onlinelibrary.wiley.com/doi/abs/10.1111/epi.17136
 subtitle: ""
 excerpt: ""
 date: 2021-11-24
@@ -12,7 +13,7 @@ draft: false
 layout: single
 categories:
 - Epilepsia
-links:
+buttons:
 - icon: door-open
   icon_pack: fas
   name: paper
