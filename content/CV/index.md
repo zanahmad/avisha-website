@@ -5,7 +5,7 @@ layout: single
 ---
 
 
-- [View or download CV](https://drive.google.com/file/d/1L3yVyY4tEAyWdDljE7F0tO7BBPqDavzn/view?usp=sharing)  
+- [View or download CV](https://drive.google.com/file/d/1BSFG1lErZTZkrnlqK4fXnnu5CpumE_Xy/view?usp=sharing)  
 
 ---
 
