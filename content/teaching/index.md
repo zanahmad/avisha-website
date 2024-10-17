@@ -2,10 +2,8 @@
 title: "Teaching"
 layout: "single"
 draft: false
-description: "Courses I've taught or assisted, organized by institution and role."
+description: "My teaching and mentorship roles, organized by institution."
 ---
-My teaching and mentorship roles, organized by institution. 
-
 #### Johns Hopkins University
 ##### Creator and Instructor
 - **EN.500.111 Modeling, Simulations, and Artificial Intelligence for Optimizing Neurosurgery** – Fall 2024  
