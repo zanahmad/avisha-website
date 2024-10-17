@@ -1,46 +1,28 @@
 ---
-title: Teaching
-description: |
-  Here are a list of my teaching experiences. 
+title: "Teaching"
+layout: "single"
 draft: false
-layout: single
+description: "Courses I've taught or assisted, organized by institution and role."
 ---
+My teaching and mentorship roles, organized by institution. 
 
-## Course Instructor
+#### Johns Hopkins University
+##### Creator and Instructor
+- **EN.500.111 Modeling, Simulations, and Artificial Intelligence for Optimizing Neurosurgery** – Fall 2024  
 
-### Modeling, Simulations, and Artificial Intelligence for Optimizing Neurosurgery
-*Designed and instructed course for Johns Hopkins undergraduate students*
+##### Instructor
+- **EN.800.130 Biomedical Engineering Innovation** – Fall 2024  
+- **EN.800.130 Biomedical Engineering Innovation** – Summer 2024 
 
-*Fall 2024*
+##### Teaching Assistant 
+- **EN.580.471 Principles of Design of Biomedical Instrumentation** – Fall 2022
 
-### Biomedical Engineering Innovation 
+##### Mentorship
+- **Artificial Intelligence Subteam Lead for JHU Neurosurgical Innovation Lab** – Current - June 2023  
+- **Computer Science Master’s Student (Kunal Kotkar)** – Jan 2023 - June 2024
+- **Computer Science Master’s Student (Alina Zhe)** – June 2024 - Current
 
-*Summer 2024 and Fall 2024*
-
-## Teaching Assistant
-
-### Principles of Design of Biomedical Instrumentation
-*Graduate teaching assistant at Johns Hopkins University*
-
-*Fall 2022*
-
-### Computer Networks and Telecommunications
-*Graduate teaching assistant at Cornell University*
-
-*Spring 2020*
-
-### Intelligent Physical Systems
-*undergraduate teaching assistant at Cornell University*
-
-*Fall 2019*
-
-## Mentorship
-
-### Artificial Intelligence Subteam Lead 
-*June 2023 - Current*
-
-### Computer Science Master’s Student (Alina Zhe)
-*June 2024 - Current*
-
-### Computer Science Master’s Student (Kunal Kotkar)
-*Jan 2023 - June 2024*
+#### Cornell University
+##### Teaching Assistant
+- **ECE3400 Intelligent Physical Systems** – Fall 2019   
+- **ECE4450 Computer Networks and Telecommunications** – Spring 2020  
