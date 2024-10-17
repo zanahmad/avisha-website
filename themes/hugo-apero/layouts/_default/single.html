@@ -4,20 +4,20 @@
     <article class="post-content pa0 ph4-l">
       <header class="post-header">
         <h1 class="f1 lh-solid measure-narrow mb3 fw4">{{ .Title }}</h1>
-        
+
         <!-- Optional subtitle -->
         {{ if .Params.subtitle }}
           <h4 class="f4 mt0 mb4 lh-title measure">{{ .Params.subtitle }}</h4>
         {{ end }}
 
-        <!-- Remove or control metadata based on front matter -->
+        <!-- Optional author byline (disabled by default) -->
         {{ if and .Params.show_author_byline .Params.author }}
           <p class="f6 measure lh-copy mv1">
             By {{ .Params.author }}
           </p>
         {{ end }}
 
-        <!-- Links section (if needed) -->
+        <!-- Optional links section -->
         {{ if .Params.links }}
           <div class="ph0 pt5">
             {{ partial "shared/btn-links.html" . }}
@@ -25,19 +25,11 @@
         {{ end }}
       </header>
 
+      <!-- Main content section -->
       <section class="post-body pt5 pb4">
         {{ .Content }}
       </section>
-
-      <footer class="post-footer">
-        {{ partial "shared/post-pagination.html" . }}
-      </footer>
     </article>
-
-    <!-- Optional comments section -->
-    {{ if .Params.show_comments }}
-      {{ partial "shared/comments.html" . }}
-    {{ end }}
   </section>
 </main>
 {{ end }}
