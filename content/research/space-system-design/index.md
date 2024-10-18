@@ -20,7 +20,7 @@ links:
   
 ---
 
-### Facilitating innovations that dramatically increase the capabilities of the next generation of small spacecraft
+#### Facilitating innovations that dramatically increase the capabilities of the next generation of small spacecraft
 
 ![space](space.png)
 

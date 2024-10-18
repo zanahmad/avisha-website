@@ -30,7 +30,7 @@ links:
 
 ![Segmentation](segmentation.png)
 
-## Continuous evaluation of clinical metrics necessitates integrated computer vision algorithms to detect relevant features from ultrasound images. 
+#### Continuous evaluation of clinical metrics necessitates integrated computer vision algorithms to detect relevant features from ultrasound images. 
 
 ---
 

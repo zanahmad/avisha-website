@@ -27,5 +27,5 @@ buttons:
   url: https://github.com/Rxliang/VISION
 ---
 
-Published in: IEEE International Conference on Acoustics, Speech, and Signal Processing
+IEEE International Conference on Acoustics, Speech, and Signal Processing
 

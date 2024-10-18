@@ -13,7 +13,7 @@ layout: single
 
 ---
 
-## A new way to both optimize and personalize spinal cord injury treatment
+#### A new way to optimize and personalize spinal cord injury treatment
 
 ![Neural Operator](custom_deeponet.png)
 

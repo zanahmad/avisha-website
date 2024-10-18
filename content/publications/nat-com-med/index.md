@@ -19,4 +19,4 @@ buttons:
   name: paper
   url: https://www.nature.com/articles/s43856-023-00430-6
 ---
-Published in: Nature Communications Medicine
+Nature Communications Medicine

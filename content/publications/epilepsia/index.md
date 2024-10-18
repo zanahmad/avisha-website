@@ -19,4 +19,4 @@ buttons:
   name: paper
   url: https://onlinelibrary.wiley.com/doi/abs/10.1111/epi.17136
 ---
-Published in: Epilepsia
+Epilepsia

@@ -19,4 +19,4 @@ buttons:
   name: paper
   url: https://arc.aiaa.org/doi/abs/10.2514/6.2021-1254
 ---
-Published in: American Institute of Aeronautics and Astronautics SciTech Forum
+American Institute of Aeronautics and Astronautics SciTech Forum

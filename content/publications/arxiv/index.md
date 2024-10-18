@@ -28,4 +28,4 @@ buttons:
   name: code
   url: https://github.com/avishakumar21/hematoma-localization-and-spinal-cord-segmentation
 ---
-Published in: **ArXiv**
+ArXiv

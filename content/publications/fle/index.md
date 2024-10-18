@@ -20,4 +20,4 @@ buttons:
   name: paper
   url: https://www.biorxiv.org/content/10.1101/2024.09.20.614207v1.full.pdf
 ---
-Published in: BioArXiv
+BioArXiv

@@ -30,7 +30,7 @@ links:
   
 ---
 
-### Generating acoustic phantoms of patient-specific spinal cords to investigate the theraputic efficacy of focused ultrasound transducer placement 
+#### Generating acoustic phantoms of patient-specific spinal cords to investigate the theraputic efficacy of focused ultrasound transducer placement 
 
 ![Simulations](simulations.png)
 
@@ -40,7 +40,7 @@ Therapeutic focused ultrasound is a rapidly maturing technology, showing promise
 
 The spinal cord has varying acoustic properties so understanding the behavior of focused ultrasound wave propagation for each patient requires computational simulations. I've developed image processing pipelines to convert spinal cord ultrasound images from patients into computational grids for numerical solvers.These simulations are crucial for non-invasively inferring the biological effects of transducer placement, especially when treating a sensitive organ such as the spinal cord. 
 
-My research in this topic was awarded the Best Paper Award at the 2023 IEEE Neuroengineering Conference and was selected for a podium talk at the 2023 SPIE Conference on Medical Imaging! More details on these publications can be found at these links:  [IEEE](https://avishakumar.com/talk/ieee-ner/) and [SPIE](https://avishakumar.com/talk/spie-med-imaging/).   
+My research in this topic was awarded the [Best Paper Award](https://2023.ieee-ner.org/) at the 2023 IEEE Neuroengineering Conference and was selected for a podium talk at the 2023 SPIE Conference on Medical Imaging! More details on these publications can be found at the links above.   
 
 <div align="center">
   <img src="spie_sagittal_cropped.gif" alt="simulation_vid" style="max-width: 100%; height: auto;" loop>

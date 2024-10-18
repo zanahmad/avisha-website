@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects and Research Interests on Avisha Kumar</title>
+    <title>Research Interests on Avisha Kumar</title>
     <link>http://localhost:4321/research/</link>
-    <description>Recent content in Projects and Research Interests on Avisha Kumar</description>
+    <description>Recent content in Research Interests on Avisha Kumar</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Thu, 01 Aug 2024 00:00:00 +0000</lastBuildDate>
@@ -13,7 +13,7 @@
       <link>http://localhost:4321/research/neural-operators/</link>
       <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:4321/research/neural-operators/</guid>
-      <description>A new way to both optimize and personalize spinal cord injury treatment This research focuses on developing a pipeline to enable personalized treatment plans for spinal cord injury. Understanding where to place a focused ultrasound transducer in surgery to optimize therapeutic effect requires computational simulations. Numerical solvers take too long to generate the necessary pressure maps, taking up to 5 hours to provide accurate results. The time and cost-intensive nature of this approach is unfeasible for intraoperative use-cases.</description>
+      <description>A new way to optimize and personalize spinal cord injury treatment This research focuses on developing a pipeline to enable personalized treatment plans for spinal cord injury. Understanding where to place a focused ultrasound transducer in surgery to optimize therapeutic effect requires computational simulations. Numerical solvers take too long to generate the necessary pressure maps, taking up to 5 hours to provide accurate results. The time and cost-intensive nature of this approach is unfeasible for intraoperative use-cases.</description>
     </item>
     <item>
       <title>Computer Vision on Medical Images</title>
@@ -48,7 +48,7 @@
       <link>http://localhost:4321/research/neuromorphic-computing/</link>
       <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
       <guid>http://localhost:4321/research/neuromorphic-computing/</guid>
-      <description>For my Masters Thesis at Cornell University (2019-2020), I worked on developing a computational system to emulate the mammalian olfactory system using chemosensors, microcontrollers, and a machine learning classification algorithm. The goal for this system is to learn and classify new odors rapidly and robustly despite interference from other smells, much like our own olfactory system. More information on my thesis can be found in the link above!</description>
+      <description>For my Master’s Thesis at Cornell University (2019-2020), I worked on developing a computational system to emulate the mammalian olfactory system using chemosensors, microcontrollers, and a machine learning classification algorithm. The goal of this system is to learn and classify new odors rapidly and robustly despite interference from other smells, much like our own olfactory system. More information on my thesis can be found in the link above!</description>
     </item>
   </channel>
 </rss>

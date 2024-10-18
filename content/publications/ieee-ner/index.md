@@ -19,4 +19,4 @@ buttons:
   name: paper
   url: https://ieeexplore.ieee.org/abstract/document/10123718
 ---
-Published in: IEEE Neuroengineering 2023
+IEEE International Conference on Neural Engineering

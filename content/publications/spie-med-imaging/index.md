@@ -19,4 +19,4 @@ buttons:
   name: paper
   url: https://ieeexplore.ieee.org/abstract/document/10123718
 ---
-Published in: SPIE Medical Imaging
+SPIE Medical Imaging

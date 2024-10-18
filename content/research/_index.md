@@ -1,6 +1,6 @@
 ---
-title: Projects and Research Interests
-description: "Here are some projects I've been working on!"
+title: Research Interests
+description: "Here are some of my research projects!"
 author: ""
 show_post_thumbnail: true
 show_author_byline: false

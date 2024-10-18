@@ -21,4 +21,4 @@ buttons:
   url: https://www.frontiersin.org/articles/10.3389/fmedt.2023.1238129/full
 ---
 
-Published in: Frontiers in Medical Technology
+Frontiers in Medical Technology
