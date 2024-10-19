@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Research Interests on Avisha Kumar</title>
+    <title>Research Interests and Projects on Avisha Kumar</title>
     <link>http://localhost:4321/research/</link>
-    <description>Recent content in Research Interests on Avisha Kumar</description>
+    <description>Recent content in Research Interests and Projects on Avisha Kumar</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Thu, 01 Aug 2024 00:00:00 +0000</lastBuildDate>
@@ -13,14 +13,14 @@
       <link>http://localhost:4321/research/neural-operators/</link>
       <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:4321/research/neural-operators/</guid>
-      <description>A new way to optimize and personalize spinal cord injury treatment This research focuses on developing a pipeline to enable personalized treatment plans for spinal cord injury. Understanding where to place a focused ultrasound transducer in surgery to optimize therapeutic effect requires computational simulations. Numerical solvers take too long to generate the necessary pressure maps, taking up to 5 hours to provide accurate results. The time and cost-intensive nature of this approach is unfeasible for intraoperative use-cases.</description>
+      <description>Combining physics and AI for rapid and precise predictions of optimal therapeutic site locations. This research focuses on developing a pipeline to enable personalized treatment plans for spinal cord injury. Understanding where to place a focused ultrasound transducer in surgery to optimize therapeutic effect requires computational simulations. Numerical solvers take too long to generate the necessary pressure maps, taking up to 5 hours to provide accurate results. The time and cost-intensive nature of this approach is unfeasible for intraoperative use-cases.</description>
     </item>
     <item>
       <title>Computer Vision on Medical Images</title>
       <link>http://localhost:4321/research/computer-vision/</link>
       <pubDate>Sat, 01 Jun 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:4321/research/computer-vision/</guid>
-      <description>Continuous evaluation of clinical metrics necessitates integrated computer vision algorithms to detect relevant features from ultrasound images. My research efforts have centered on developing tools for automating and aiding with diagnostics in spinal cord injury. Using ultrasound and wearable technology, we can monitor patient health continuously with ultrasonic imaging. Rather than the current treatment paradigm, where the spinal cord is imaged for sparse and discrete time points after the injury, we can continuously evaluate the spinal cord.</description>
+      <description>Integrated computer vision algorithms that detect relevant features from ultrasound images allow continuous evaluation of clinical metrics. My research efforts have centered on developing tools for automating and aiding with diagnostics in spinal cord injury. Using ultrasound and wearable technology, we can monitor patient health continuously with ultrasonic imaging. Rather than the current treatment paradigm, where the spinal cord is imaged for sparse and discrete time points after the injury, we can continuously evaluate the spinal cord.</description>
     </item>
     <item>
       <title>Ultrasound Simulations</title>
@@ -41,7 +41,7 @@
       <link>http://localhost:4321/research/space-system-design/</link>
       <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
       <guid>http://localhost:4321/research/space-system-design/</guid>
-      <description>Facilitating innovations that dramatically increase the capabilities of the next generation of small spacecraft The mission of the Space Systems Design Studion is pioneering multiple techniques that have the potential to fundamentally change deep space exploration. Highlighted innovations include, but are not limited to: a primarily 3D printed spacecraft structure, the use of a RockBlock modem for decentralized communication, the placement of holograms on the spacecraft, and of course, the first release of a free-flying light sail into Low Earth Orbit.</description>
+      <description>The mission of the Space Systems Design Studion is pioneering multiple techniques that have the potential to fundamentally change deep space exploration. Highlighted innovations include, but are not limited to: a primarily 3D printed spacecraft structure, the use of a RockBlock modem for decentralized communication, the placement of holograms on the spacecraft, and of course, the first release of a free-flying light sail into Low Earth Orbit. This project has been approved by NASA for spaceflight!</description>
     </item>
     <item>
       <title>Neuromorphic Circuits</title>

@@ -22,5 +22,5 @@ description: "My teaching and mentorship roles, organized by institution."
 
 #### Cornell University
 ##### Teaching Assistant
-- **ECE3400 Intelligent Physical Systems** – Fall 2019   
-- **ECE4450 Computer Networks and Telecommunications** – Spring 2020  
+- **ECE 3400 Intelligent Physical Systems** – Fall 2019   
+- **ECE 4450 Computer Networks and Telecommunications** – Spring 2020  

@@ -1,7 +1,7 @@
 ---
 title: "Neuromorphic Circuits"
-subtitle: "Neuromorphic Circuits for rapid learning and robust classification of olfactory signals"
-excerpt: "Neuromorphic Circuits for rapid learning and robust classification of olfactory signals"
+subtitle: "Neuromorphic circuits for rapid learning and robust classification of olfactory signals"
+excerpt: "Neuromorphic circuits for rapid learning and robust classification of olfactory signals"
 date: 2019-09-01
 layout: single
 links:

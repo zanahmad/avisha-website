@@ -11,26 +11,26 @@ categories:
 # layout options: single or single-sidebar
 layout: single
 links:
-- icon: github
-  icon_pack: fab
-  name: code
-  url: https://github.com/avishakumar21/hematoma-localization-and-spinal-cord-segmentation
+- icon: door-open
+  icon_pack: fas
+  name: paper
+  url: https://arxiv.org/pdf/2409.16441
   
 - icon: github
   icon_pack: fab
   name: dataset
   url: https://github.com/avishakumar21/ultrasound_spinal_cord_dataset
-
-- icon: door-open
-  icon_pack: fas
-  name: paper
-  url: https://arxiv.org/pdf/2409.16441
+  
+- icon: github
+  icon_pack: fab
+  name: code
+  url: https://github.com/avishakumar21/hematoma-localization-and-spinal-cord-segmentation
 
 ---
 
 ![Segmentation](segmentation.png)
 
-#### Continuous evaluation of clinical metrics necessitates integrated computer vision algorithms to detect relevant features from ultrasound images. 
+#### Integrated computer vision algorithms that detect relevant features from ultrasound images allow continuous evaluation of clinical metrics. 
 
 ---
 

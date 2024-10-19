@@ -1,6 +1,6 @@
 ---
 title: "Ultrasound Simulations"
-subtitle: "Investigating focused ultrasound wave propagation in patient-specific spinal cord anatomy"
+subtitle: ""
 excerpt: "Investigating focused ultrasound wave propagation in patient-specific spinal cord anatomy"
 date: 2023-04-01
 author: ""
@@ -31,10 +31,11 @@ links:
 ---
 
 #### Generating acoustic phantoms of patient-specific spinal cords to investigate the theraputic efficacy of focused ultrasound transducer placement 
-
-![Simulations](simulations.png)
-
 ---
+
+<div align="center">
+  <img src="spie_sagittal_cropped.gif" alt="simulation_vid" style="max-width: 100%; height: auto;" loop>
+</div>
 
 Therapeutic focused ultrasound is a rapidly maturing technology, showing promise for alleviating the side effects of spinal cord injury by stimulating blood circulation to promote healing. Focused ultrasound can deliver therapy to sub-millimeter focal regions, allowing clinicians to pinpoint the site of injury while minimizing impact on surrounding tissues. During my PhD, I have been interested in investigating the effects of patient spinal cord geometry on focused ultrasound wave propagation. 
 
@@ -42,9 +43,6 @@ The spinal cord has varying acoustic properties so understanding the behavior of
 
 My research in this topic was awarded the [Best Paper Award](https://2023.ieee-ner.org/) at the 2023 IEEE Neuroengineering Conference and was selected for a podium talk at the 2023 SPIE Conference on Medical Imaging! More details on these publications can be found at the links above.   
 
-<div align="center">
-  <img src="spie_sagittal_cropped.gif" alt="simulation_vid" style="max-width: 100%; height: auto;" loop>
-</div>
 
 ---
 

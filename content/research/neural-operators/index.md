@@ -1,7 +1,7 @@
 ---
 title: "Neural Operators for Optimizing Focused Ultrasound Therapy"
-subtitle: "Informing clinicians on where to place the ultrasound probe to optimize therapeutic efficacy"
-excerpt: "Informing clinicians on where to place the ultrasound probe to optimize therapeutic efficacy"
+subtitle: ""
+excerpt: "Optimizing ultrasound therapeutic efficacy based on patient-specific spinal cord geometry"
 date: 2024-08-01
 author: ""
 draft: false
@@ -13,7 +13,7 @@ layout: single
 
 ---
 
-#### A new way to optimize and personalize spinal cord injury treatment
+#### Combining physics and AI for rapid and precise predictions of optimal therapeutic site locations.
 
 ![Neural Operator](custom_deeponet.png)
 

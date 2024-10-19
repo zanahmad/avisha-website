@@ -13,11 +13,11 @@ layout: single
 links:
 - icon: door-open
   icon_pack: fas
-  name: paper
+  name: Frontal Lobe Epilepsy paper
   url: https://www.biorxiv.org/content/10.1101/2024.09.20.614207v1.full.pdf
 - icon: door-open
   icon_pack: fas
-  name: paper
+  name: Driving with Epilepsy paper
   url: https://onlinelibrary.wiley.com/doi/full/10.1111/epi.17136
 ---
 
