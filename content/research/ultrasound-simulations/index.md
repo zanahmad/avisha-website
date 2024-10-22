@@ -43,6 +43,18 @@ The spinal cord has varying acoustic properties so understanding the behavior of
 
 My research in this topic was awarded the [Best Paper Award](https://2023.ieee-ner.org/) at the 2023 IEEE Neuroengineering Conference and was selected for a podium talk at the 2023 SPIE Conference on Medical Imaging! More details on these publications can be found at the links above.   
 
-
 ---
 
+<!-- Embed PDF Poster -->
+<figure style="margin-top: 30px; text-align: center;">
+  <iframe
+    src="/files/NER 2023 poster.pdf"
+    width="100%"
+    height="555px"
+    style="border: none;"
+    loading="lazy">
+  </iframe>
+  <figcaption style="font-size: 1rem; color: gray; margin-top: 10px;">
+    My research on image processing for developing patient-specific models in ultrasound simulators, aimed at optimizing focused ultrasound treatment planning, received the Best Paper Award at the IEEE Neural Engineering Conference.
+  </figcaption>
+</figure>

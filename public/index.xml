@@ -62,7 +62,7 @@
       <link>http://localhost:4321/research/neural-operators/</link>
       <pubDate>Thu, 01 Aug 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:4321/research/neural-operators/</guid>
-      <description>Combining physics and AI for rapid and precise predictions of optimal therapeutic site locations. This research focuses on developing a pipeline to enable personalized treatment plans for spinal cord injury. Understanding where to place a focused ultrasound transducer in surgery to optimize therapeutic effect requires computational simulations. Numerical solvers take too long to generate the necessary pressure maps, taking up to 5 hours to provide accurate results. The time and cost-intensive nature of this approach is unfeasible for intraoperative use-cases.</description>
+      <description>Combining physics and AI for rapid and precise predictions of optimal therapeutic site locations. This research focuses on developing a model to enable personalized treatment plans for spinal cord injury. Understanding where to place a focused ultrasound transducer in surgery to optimize therapeutic effect requires computational simulations. Numerical solvers take too long to generate the necessary pressure maps, taking up to 5 hours to provide accurate results. The time and cost-intensive nature of this approach is unfeasible for intraoperative use-cases.</description>
     </item>
     <item>
       <title>A novel open-source ultrasound dataset with deep learning benchmarks for spinal cord injury localization and anatomical segmentation</title>
