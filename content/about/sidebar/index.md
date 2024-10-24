@@ -8,18 +8,19 @@ audio_link_label:  # leave blank to exclude
 
 link_list_label: "Research Interests" # bookmarks, elsewhere, etc.
 link_list:
+- name: Neural Operators
+  url: https://avishakumar.com/research/neural-operators/
 - name: Computer Vision 
   url: https://avishakumar.com/research/computer-vision/
 - name: Ultrasound Simulations
   url: https://avishakumar.com/research/ultrasound-simulations/
-- name: Neural Operators
-  url: https://avishakumar.com/research/neural-operators/
 - name: Computational Neuroscience 
   url: https://avishakumar.com/research/computational-neuroscience/
-- name: Neuromorphic Circuits
-  url: https://avishakumar.com/research/neuromorphic-computing/
 - name: Space Systems Design
   url: https://avishakumar.com/research/space-system-design/
+- name: Neuromorphic Circuits
+  url: https://avishakumar.com/research/neuromorphic-computing/
+
 ---
 ** index doesn't contain a body, just front matter above.
 See about/list.html in the layouts folder **
