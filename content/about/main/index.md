@@ -10,9 +10,9 @@ intro: |
 
   I received my Bachelor's of Science (Dec 2019) and Master of Engineering (May 2020) degrees at **Cornell University**. During my time there, I was a member of the [Space Systems Design Studio](https://www.spacecraftresearch.com/), with the research focus of spacecraft electrical system development. For my Master's thesis, I delved into algorithms to emulate the mammalian olfactory system with neuromorphic systems. After completing my Masters degree, I spent a year as a computational neuroscience research scientist at **Yale School of Medicine** in the [Blumenfeld Lab](https://medicine.yale.edu/lab/blumenfeld/), using signal processing techniques to study the electrical activity of the brain in patients with epilepsy. 
   
-show_outro: false
+show_outro: true
 outro: |
-  <i class="fas fa-glass-cheers pr2"></i>Sincere thanks to [Maëlle Salmon](https://masalmon.eu/) for her help naming this Hugo theme!
+  <i class="fas fa-glass-cheers pr2"></i>My partner [Zan](zanahmad.com) is a PhD Candidate in the Applied Math Department at JHU, check out his [webpage](zanahmad.com).
 ---
 
 ** index doesn't contain a body, just front matter above.
