@@ -12,7 +12,7 @@ intro: |
   
 show_outro: true
 outro: |
-  <i class="fas fa-glass-cheers pr2"></i>My partner [Zan](zanahmad.com) is a PhD Candidate in the Applied Math Department at JHU, check out his [webpage](zanahmad.com).
+  <i class="fas fa-glass-cheers pr2"></i>My partner [Zan](https://zanahmad.com/) is a PhD Candidate in the Applied Math Department at JHU, check out his [webpage](https://zanahmad.com/)!
 ---
 
 ** index doesn't contain a body, just front matter above.
