@@ -6,7 +6,7 @@
     <description>Recent content on Avisha Kumar</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 01 Aug 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 02 Mar 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:4321/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Netlify</title>
@@ -56,6 +56,20 @@
       <pubDate>Sat, 02 Jan 2021 00:00:00 +0000</pubDate>
       <guid>http://localhost:4321/collection/day02/03-blogdown/</guid>
       <description> Hi, I&#39;m the here-bot cat! Use me to find your way in your website.&#xA;Here I am: content/collection/day02/03-blogdown/index.md To remove me, delete this line inside that file: {{&amp;lt; here &amp;gt;}}&#xA;My content section is: collection My layout is: single-series part 2! does this work? now for some very cool things more get ready! </description>
+    </item>
+    <item>
+      <title>Convolutional Deep Operator Networks for Learning Nonlinear Focused Ultrasound Wave Propagation in Heterogeneous Spinal Cord Anatomy</title>
+      <link>http://localhost:4321/publications/aaai-1/</link>
+      <pubDate>Sun, 02 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/publications/aaai-1/</guid>
+      <description>AAAI Conference on Artificial Intelligence Workshop 2025</description>
+    </item>
+    <item>
+      <title>Diffeomorphic Latent Neural Operators for Data-Efficient Learning of Solutions to Partial Differential Equations</title>
+      <link>http://localhost:4321/publications/aaai-2/</link>
+      <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/publications/aaai-2/</guid>
+      <description>AAAI Conference on Artificial Intelligence Workshop 2025</description>
     </item>
     <item>
       <title>Neural Operators for Optimizing Focused Ultrasound Therapy</title>

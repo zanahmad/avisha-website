@@ -6,8 +6,22 @@
     <description>Recent content in Publications on Avisha Kumar</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 01 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 02 Mar 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:4321/publications/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Convolutional Deep Operator Networks for Learning Nonlinear Focused Ultrasound Wave Propagation in Heterogeneous Spinal Cord Anatomy</title>
+      <link>http://localhost:4321/publications/aaai-1/</link>
+      <pubDate>Sun, 02 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/publications/aaai-1/</guid>
+      <description>AAAI Conference on Artificial Intelligence Workshop 2025</description>
+    </item>
+    <item>
+      <title>Diffeomorphic Latent Neural Operators for Data-Efficient Learning of Solutions to Partial Differential Equations</title>
+      <link>http://localhost:4321/publications/aaai-2/</link>
+      <pubDate>Sat, 01 Mar 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/publications/aaai-2/</guid>
+      <description>AAAI Conference on Artificial Intelligence Workshop 2025</description>
+    </item>
     <item>
       <title>A novel open-source ultrasound dataset with deep learning benchmarks for spinal cord injury localization and anatomical segmentation</title>
       <link>http://localhost:4321/publications/arxiv/</link>
