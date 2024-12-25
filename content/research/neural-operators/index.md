@@ -10,7 +10,16 @@ categories:
 
 # layout options: single or single-sidebar
 layout: single
-
+links:
+- icon: github
+  icon_pack: fab
+  name: code
+  url: https://github.com/avishakumar21/nonlinear-fus-with-neural-operators
+  
+- icon: door-open
+  icon_pack: fas
+  name: paper
+  url: https://arxiv.org/abs/2412.16118
 ---
 
 #### Combining physics and AI for rapid and precise predictions of optimal therapeutic site locations.
@@ -23,7 +32,7 @@ layout: single
 
 This research focuses on developing a model to enable personalized treatment plans for spinal cord injury. Understanding where to place a focused ultrasound transducer in surgery to optimize therapeutic effect requires computational simulations. Numerical solvers take too long to generate the necessary pressure maps, taking up to 5 hours to provide accurate results. The time and cost-intensive nature of this approach is unfeasible for intraoperative use-cases. My approach uses a physics-informed deep operator network trained on simulated pressure maps in the spinal cord to predict the output pressure distribution for a given patient in a matter of seconds. Regularized by physical constraints, this novel architecture learns the mappings between the patient-specific anatomy and the solution for the governing wave equation (pressure distribution) to approximate the overarching operator. This presents a paradigm-shifting solution to personalizing spinal cord care, overcoming the computational burden of running several expensive simulations. 
 
-So far, the designed network has been able to achieve 2% error in the test set using a segmented mask of the ultrasound spinal cord image! This work is under preparation and will be available online soon! 
+So far, the designed network has been able to achieve 2% error in the test set using a segmented mask of the ultrasound spinal cord image! This work has been accepted at AAAI Conference on Artificial Intelligence Workhop 2025! 
 
 <div style="text-align: center;">
   <img src="deeponet_segmented_output.png" alt="Neural Operator Result" width="60%">

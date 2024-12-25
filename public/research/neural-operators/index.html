@@ -48,7 +48,7 @@
   <meta itemprop="description" content="Combining physics and AI for rapid and precise predictions of optimal therapeutic site locations. This research focuses on developing a model to enable personalized treatment plans for spinal cord injury. Understanding where to place a focused ultrasound transducer in surgery to optimize therapeutic effect requires computational simulations. Numerical solvers take too long to generate the necessary pressure maps, taking up to 5 hours to provide accurate results. The time and cost-intensive nature of this approach is unfeasible for intraoperative use-cases.">
   <meta itemprop="datePublished" content="2024-08-01T00:00:00+00:00">
   <meta itemprop="dateModified" content="2024-08-01T00:00:00+00:00">
-  <meta itemprop="wordCount" content="222">
+  <meta itemprop="wordCount" content="224">
   <meta itemprop="image" content="http://localhost:4321/research/neural-operators/featured-hex.png">
   
   
@@ -122,6 +122,24 @@
 
         
         
+          <div class="mt2 flex items-center flex-wrap">
+            
+              <a href="https://github.com/avishakumar21/nonlinear-fus-with-neural-operators" 
+                 class="link dim ba br2 ph3 pv2 mb2 dib gray mr2" 
+                 target="_blank" 
+                 style="transition: background-color 0.3s ease;">
+                <i class="fab fa-github mr2"></i>code
+              </a>
+            
+              <a href="https://arxiv.org/abs/2412.16118" 
+                 class="link dim ba br2 ph3 pv2 mb2 dib gray mr2" 
+                 target="_blank" 
+                 style="transition: background-color 0.3s ease;">
+                <i class="fas fa-door-open mr2"></i>paper
+              </a>
+            
+          </div>
+        
       </header>
 
       
@@ -138,7 +156,7 @@
 </div>
 <hr>
 <p>This research focuses on developing a model to enable personalized treatment plans for spinal cord injury. Understanding where to place a focused ultrasound transducer in surgery to optimize therapeutic effect requires computational simulations. Numerical solvers take too long to generate the necessary pressure maps, taking up to 5 hours to provide accurate results. The time and cost-intensive nature of this approach is unfeasible for intraoperative use-cases. My approach uses a physics-informed deep operator network trained on simulated pressure maps in the spinal cord to predict the output pressure distribution for a given patient in a matter of seconds. Regularized by physical constraints, this novel architecture learns the mappings between the patient-specific anatomy and the solution for the governing wave equation (pressure distribution) to approximate the overarching operator. This presents a paradigm-shifting solution to personalizing spinal cord care, overcoming the computational burden of running several expensive simulations.</p>
-<p>So far, the designed network has been able to achieve 2% error in the test set using a segmented mask of the ultrasound spinal cord image! This work is under preparation and will be available online soon!</p>
+<p>So far, the designed network has been able to achieve 2% error in the test set using a segmented mask of the ultrasound spinal cord image! This work has been accepted at AAAI Conference on Artificial Intelligence Workhop 2025!</p>
 <div style="text-align: center;">
   <img src="deeponet_segmented_output.png" alt="Neural Operator Result" width="60%">
 </div>
