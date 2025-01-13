@@ -3,7 +3,7 @@ title: "Convolutional Deep Operator Networks for Learning Nonlinear Focused Ultr
 title_link: https://arxiv.org/abs/2412.16118
 subtitle: ""
 excerpt: ""
-date: 2025-03-02
+date: 2025-01-02
 image_border: true
 author: ""
 location: "Avisha Kumar, Xuzhe Zhi, Zan Ahmad, Minglang Yin, Amir Manbachi"

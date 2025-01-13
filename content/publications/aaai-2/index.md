@@ -3,7 +3,7 @@ title: "Diffeomorphic Latent Neural Operators for Data-Efficient Learning of Sol
 title_link: https://arxiv.org/abs/2411.18014
 subtitle: ""
 excerpt: ""
-date: 2025-03-01
+date: 2025-01-01
 image_border: true
 author: ""
 location: "Zan Ahmad, Shiyi Chen, Minglang Yin, Avisha Kumar, ... Mauro Maggioni"

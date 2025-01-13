@@ -10,7 +10,7 @@ layout: single
 ---
 
 
-Last updated 10/17/2024
+Last updated 12/24/2024
 
 <iframe src="CV.pdf" width="100%" height="700px" style="border: none;"></iframe>
 
